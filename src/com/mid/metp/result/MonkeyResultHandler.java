@@ -1,4 +1,4 @@
-package com.mid.metp.result;
+﻿package com.mid.metp.result;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -69,10 +69,10 @@ public class MonkeyResultHandler {
 					if (splits[1].equalsIgnoreCase("FAIL")) {
 						failCount++;
 						MonkeyFailInfo failInfo = new MonkeyFailInfo();
-						failInfo.setType(splits[2]);
+						failInfo.setType(splits[3]);
 						failInfo.setRound(Integer.parseInt(splits[0]));
-						failInfo.setPackageName(splits[3]);
-						failInfo.setShortMessage(splits[4]);
+						failInfo.setPackageName(splits[4]);
+						failInfo.setShortMessage(splits[5]);
 
 						failInfos.add(failInfo);
 					} else {
@@ -192,7 +192,9 @@ public class MonkeyResultHandler {
 									.getFails()) {
 								failureCount++;
 								index++;
-								builder.append("<tr style=\"background-color: e8767a;\">");
+								// #E8767A;
+								// "<font color=\"e8767a\" face=\"monospace\" size=\"48\">FAIL:"
+								builder.append("<tr style=\"background: #E8767A;\">");
 								builder.append("<td>");
 								builder.append(index);
 								builder.append("</td><td>");
@@ -308,7 +310,7 @@ public class MonkeyResultHandler {
 		runInfo.setTestRound(10);
 		runInfo.setTestTime(3600);
 		MonkeyResultHandler handler = new MonkeyResultHandler(runInfo, targets,
-				"C:\\Users\\defus_000\\Desktop\\METP\\Log\\monkey\\com.quad\\20140316--1402");
+				"C:\\Users\\defus_000\\Desktop\\METP\\Log\\monkey\\com.quad\\20140414--1626");
 		String contentString = handler.generateHtmlReport();
 		handler.generateReportFile(contentString);
 		// "D:\\Workspaces_Eclipse\\METP\\Log\\monkey\\com.quad\\20131028--1405\\");
