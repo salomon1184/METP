@@ -1,4 +1,4 @@
-package com.mid.metp.util;
+﻿package com.mid.metp.util;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
@@ -321,7 +321,7 @@ public class AndroidUtility {
 		AndroidUtility ultility = new AndroidUtility(Utility.getMachineType());
 		// ultility.getApkInfo("C:\\Users\\defus_000\\Desktop\\Quad_V2.4_release_20130924_1843.apk");
 		// try {
-		String file = "C:\\Users\\defus_000\\Desktop\\monkey__4.txt";
+		String file = "C:\\Users\\defus_000\\Desktop\\METP\\Log\\monkey\\com.quad\\20140414--1252\\LGE_Nexus4_4.4.2_00505bd7a2137271\\monkey_0.log";
 		Log.logError(ultility.searchMonkeyError(file, 0));
 
 		// File testFile = new File(System.getProperty("user.dir")
@@ -725,7 +725,21 @@ public class AndroidUtility {
 						// monkeyLogFile.seek(nextIndex);
 						// String packageLine = monkeyLogFile.readLine();
 						// monkeyLogFile.seek(nextIndex + packageLine.length());
+
+						/*
+						 * / CRASH: com.quad (pid 4478)
+						 * 
+						 * // Short Msg: net.sqlcipher.database.SQLiteException
+						 * // Long Msg: net.sqlcipher.database.SQLiteException:
+						 * no such column: topic_desc: , while compiling: SELECT
+						 * chat_id, chat_type, input_type, input_text,
+						 * emotion_tab_position, topic_desc, publisher_type FROM
+						 * chat_cache WHERE chat_id = 30357 And chat_type = 1 //
+						 * Build Label:
+						 */
 						String ErrorLine = monkeyLogFile.readLine();
+						ErrorLine = monkeyLogFile.readLine();// FIXBUG--这里必须readLine两次，才能获取下一行，中间有个空白行。
+						// ErrorLine = monkeyLogFile.readLine();
 						// || line.contains("new native crash detected")
 						// || line.contains("native_crash_")
 						// || line.contains("unexpected power cycle")
