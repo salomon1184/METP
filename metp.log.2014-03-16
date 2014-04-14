@@ -1,0 +1,146 @@
+2014-03-16 05:03:40 - start adb server 执行成功！
+2014-03-16 05:03:40 - 检测到手机： Xiaomi-MI-ONEPlus-4.1.2-1fb97386
+2014-03-16 05:03:58 - 进入Moneky执行逻辑...... 
+2014-03-16 05:03:58 - *****************************************************
+2014-03-16 05:03:58 - ---Apk: Quad_V322_20140312_2011_monkey_test.apk
+2014-03-16 05:03:58 - ---Package: com.quad
+2014-03-16 05:03:58 - ---Testround: 5
+2014-03-16 05:03:58 - ---Roundtime: 120
+2014-03-16 05:03:58 - *****************************************************
+2014-03-16 05:03:59 - Phone-Xiaomi-MI-ONEPlus-4.1.2-1fb97386: Round 1
+2014-03-16 05:03:59 - Kill process: com.android.commands.monkey
+2014-03-16 05:03:59 - kill process: 0 执行成功！
+2014-03-16 05:03:59 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--clear logcat 执行成功！
+2014-03-16 05:04:29 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Install apk  执行成功！
+2014-03-16 05:04:29 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Moneky 开始执行
+2014-03-16 05:06:30 - Kill process: com.android.commands.monkey
+2014-03-16 05:06:30 - kill process: 26472 执行成功！
+2014-03-16 05:06:30 - 手机Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Run monkey 执行成功！
+2014-03-16 05:06:30 - 
+2014-03-16 05:06:30 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386dump logcat info to fileD:\Workspaces_Eclipse\METP\Log\monkey\com.quad\20140316--1703\Xiaomi-MI-ONEPlus-4.1.2-1fb97386\logcat_0.log 执行成功！
+2014-03-16 05:06:30 - 
+2014-03-16 05:06:30 - 没有找到Error信息
+2014-03-16 05:06:30 - .................本轮测试停止
+2014-03-16 05:06:45 - Phone-Xiaomi-MI-ONEPlus-4.1.2-1fb97386: Round 2
+2014-03-16 05:06:45 - Kill process: com.android.commands.monkey
+2014-03-16 05:06:45 - kill process: 0 执行成功！
+2014-03-16 05:06:45 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--clear logcat 执行成功！
+2014-03-16 05:07:11 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Install apk  执行成功！
+2014-03-16 05:07:11 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Moneky 开始执行
+2014-03-16 05:09:11 - Kill process: com.android.commands.monkey
+2014-03-16 05:09:12 - kill process: 27542 执行成功！
+2014-03-16 05:09:12 - 
+2014-03-16 05:09:12 - 手机Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Run monkey 执行成功！
+2014-03-16 05:09:12 - 
+2014-03-16 05:09:12 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386dump logcat info to fileD:\Workspaces_Eclipse\METP\Log\monkey\com.quad\20140316--1703\Xiaomi-MI-ONEPlus-4.1.2-1fb97386\logcat_1.log 执行成功！
+2014-03-16 05:09:12 - 没有找到Error信息
+2014-03-16 05:09:12 - .................本轮测试停止
+2014-03-16 05:09:27 - Phone-Xiaomi-MI-ONEPlus-4.1.2-1fb97386: Round 3
+2014-03-16 05:09:27 - Kill process: com.android.commands.monkey
+2014-03-16 05:09:27 - kill process: 0 执行成功！
+2014-03-16 05:09:27 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--clear logcat 执行成功！
+2014-03-16 05:09:52 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Install apk  执行成功！
+2014-03-16 05:09:52 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Moneky 开始执行
+2014-03-16 05:11:52 - Kill process: com.android.commands.monkey
+2014-03-16 05:11:52 - kill process: 28479 执行成功！
+2014-03-16 05:11:52 - 手机Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Run monkey 执行成功！
+2014-03-16 05:11:52 - 
+2014-03-16 05:11:52 - 
+2014-03-16 05:11:52 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386dump logcat info to fileD:\Workspaces_Eclipse\METP\Log\monkey\com.quad\20140316--1703\Xiaomi-MI-ONEPlus-4.1.2-1fb97386\logcat_2.log 执行成功！
+2014-03-16 05:11:52 - 没有找到Error信息
+2014-03-16 05:11:52 - .................本轮测试停止
+2014-03-16 05:12:07 - Phone-Xiaomi-MI-ONEPlus-4.1.2-1fb97386: Round 4
+2014-03-16 05:12:07 - Kill process: com.android.commands.monkey
+2014-03-16 05:12:07 - kill process: 0 执行成功！
+2014-03-16 05:12:07 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--clear logcat 执行成功！
+2014-03-16 05:12:31 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Install apk  执行成功！
+2014-03-16 05:12:31 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Moneky 开始执行
+2014-03-16 05:14:31 - Kill process: com.android.commands.monkey
+2014-03-16 05:14:32 - kill process: 28907 执行成功！
+2014-03-16 05:14:32 - 
+2014-03-16 05:14:32 - 手机Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Run monkey 执行成功！
+2014-03-16 05:14:32 - 
+2014-03-16 05:14:32 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386dump logcat info to fileD:\Workspaces_Eclipse\METP\Log\monkey\com.quad\20140316--1703\Xiaomi-MI-ONEPlus-4.1.2-1fb97386\logcat_3.log 执行成功！
+2014-03-16 05:14:32 - 没有找到Error信息
+2014-03-16 05:14:32 - .................本轮测试停止
+2014-03-16 05:14:47 - Phone-Xiaomi-MI-ONEPlus-4.1.2-1fb97386: Round 5
+2014-03-16 05:14:47 - Kill process: com.android.commands.monkey
+2014-03-16 05:14:47 - kill process: 0 执行成功！
+2014-03-16 05:14:47 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--clear logcat 执行成功！
+2014-03-16 05:15:14 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Install apk  执行成功！
+2014-03-16 05:15:14 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Moneky 开始执行
+2014-03-16 05:17:14 - Kill process: com.android.commands.monkey
+2014-03-16 05:17:14 - kill process: 29784 执行成功！
+2014-03-16 05:17:14 - 
+2014-03-16 05:17:14 - 手机Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Run monkey 执行成功！
+2014-03-16 05:17:14 - 
+2014-03-16 05:17:14 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386dump logcat info to fileD:\Workspaces_Eclipse\METP\Log\monkey\com.quad\20140316--1703\Xiaomi-MI-ONEPlus-4.1.2-1fb97386\logcat_4.log 执行成功！
+2014-03-16 05:17:14 - 没有找到Error信息
+2014-03-16 05:17:14 - .................本轮测试停止
+2014-03-16 05:17:29 - 生成最终报告文件: D:\Workspaces_Eclipse\METP\Log\monkey\com.quad\20140316--1703\Xiaomi-MI-ONEPlus-4.1.2-1fb97386.log
+2014-03-16 05:18:46 - start adb server 执行成功！
+2014-03-16 05:18:46 - 检测到手机： Xiaomi-MI-ONEPlus-4.1.2-1fb97386
+2014-03-16 05:19:02 - 进入Moneky执行逻辑...... 
+2014-03-16 05:19:03 - *****************************************************
+2014-03-16 05:19:03 - ---Apk: Quad_V322_20140312_2011_monkey_test.apk
+2014-03-16 05:19:03 - ---Package: com.quad
+2014-03-16 05:19:03 - ---Testround: 4
+2014-03-16 05:19:03 - ---Roundtime: 120
+2014-03-16 05:19:03 - *****************************************************
+2014-03-16 05:19:03 - Phone-Xiaomi-MI-ONEPlus-4.1.2-1fb97386: Round 1
+2014-03-16 05:19:03 - Kill process: com.android.commands.monkey
+2014-03-16 05:19:03 - kill process: 0 执行成功！
+2014-03-16 05:19:03 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--clear logcat 执行成功！
+2014-03-16 05:19:28 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Install apk  执行成功！
+2014-03-16 05:19:28 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Moneky 开始执行
+2014-03-16 05:21:28 - Kill process: com.android.commands.monkey
+2014-03-16 05:21:28 - kill process: 31110 执行成功！
+2014-03-16 05:21:28 - 手机Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Run monkey 执行成功！
+2014-03-16 05:21:28 - 
+2014-03-16 05:21:28 - 
+2014-03-16 05:21:28 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386dump logcat info to fileD:\Workspaces_Eclipse\METP\Log\monkey\com.quad\20140316--1719\Xiaomi-MI-ONEPlus-4.1.2-1fb97386\logcat_0.log 执行成功！
+2014-03-16 05:21:28 - 没有找到Error信息
+2014-03-16 05:21:28 - .................本轮测试停止
+2014-03-16 05:21:43 - Phone-Xiaomi-MI-ONEPlus-4.1.2-1fb97386: Round 2
+2014-03-16 05:21:43 - Kill process: com.android.commands.monkey
+2014-03-16 05:21:43 - kill process: 0 执行成功！
+2014-03-16 05:21:43 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--clear logcat 执行成功！
+2014-03-16 05:22:08 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Install apk  执行成功！
+2014-03-16 05:22:08 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Moneky 开始执行
+2014-03-16 05:24:08 - Kill process: com.android.commands.monkey
+2014-03-16 05:24:08 - 手机Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Run monkey 执行成功！
+2014-03-16 05:24:08 - kill process: 32070 执行成功！
+2014-03-16 05:24:08 - 
+2014-03-16 05:24:09 - 
+2014-03-16 05:24:09 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386dump logcat info to fileD:\Workspaces_Eclipse\METP\Log\monkey\com.quad\20140316--1719\Xiaomi-MI-ONEPlus-4.1.2-1fb97386\logcat_1.log 执行成功！
+2014-03-16 05:24:09 - 没有找到Error信息
+2014-03-16 05:24:09 - .................本轮测试停止
+2014-03-16 05:24:23 - Phone-Xiaomi-MI-ONEPlus-4.1.2-1fb97386: Round 3
+2014-03-16 05:24:24 - Kill process: com.android.commands.monkey
+2014-03-16 05:24:24 - kill process: 0 执行成功！
+2014-03-16 05:24:24 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--clear logcat 执行成功！
+2014-03-16 05:24:48 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Install apk  执行成功！
+2014-03-16 05:24:48 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Moneky 开始执行
+2014-03-16 05:26:48 - Kill process: com.android.commands.monkey
+2014-03-16 05:26:48 - kill process: 577 执行成功！
+2014-03-16 05:26:48 - 
+2014-03-16 05:26:48 - 手机Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Run monkey 执行成功！
+2014-03-16 05:26:48 - 
+2014-03-16 05:26:48 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386dump logcat info to fileD:\Workspaces_Eclipse\METP\Log\monkey\com.quad\20140316--1719\Xiaomi-MI-ONEPlus-4.1.2-1fb97386\logcat_2.log 执行成功！
+2014-03-16 05:26:48 - 没有找到Error信息
+2014-03-16 05:26:48 - .................本轮测试停止
+2014-03-16 05:27:03 - Phone-Xiaomi-MI-ONEPlus-4.1.2-1fb97386: Round 4
+2014-03-16 05:27:03 - Kill process: com.android.commands.monkey
+2014-03-16 05:27:03 - kill process: 0 执行成功！
+2014-03-16 05:27:03 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--clear logcat 执行成功！
+2014-03-16 05:27:29 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Install apk  执行成功！
+2014-03-16 05:27:29 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Moneky 开始执行
+2014-03-16 05:29:29 - Kill process: com.android.commands.monkey
+2014-03-16 05:29:30 - kill process: 1597 执行成功！
+2014-03-16 05:29:30 - 
+2014-03-16 05:29:30 - 手机Xiaomi-MI-ONEPlus-4.1.2-1fb97386--Run monkey 执行成功！
+2014-03-16 05:29:30 - 
+2014-03-16 05:29:30 - 手机--Xiaomi-MI-ONEPlus-4.1.2-1fb97386dump logcat info to fileD:\Workspaces_Eclipse\METP\Log\monkey\com.quad\20140316--1719\Xiaomi-MI-ONEPlus-4.1.2-1fb97386\logcat_3.log 执行成功！
+2014-03-16 05:29:30 - 没有找到Error信息
+2014-03-16 05:29:30 - .................本轮测试停止
+2014-03-16 05:29:45 - 生成最终报告文件: D:\Workspaces_Eclipse\METP\Log\monkey\com.quad\20140316--1719\Xiaomi-MI-ONEPlus-4.1.2-1fb97386.log

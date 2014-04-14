@@ -1,0 +1,97 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.renren.mid.qa.quad2.test.QuadStressTest
+INSTRUMENTATION_STATUS: stream=
+com.renren.mid.qa.quad2.test.QuadStressTest:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=testSendEmoji
+INSTRUMENTATION_STATUS_CODE: 1
+UIAUTOMATOR_MESSAGE:	20131015-15:40:04	Device Information
+UIAUTOMATOR_MESSAGE:	20131015-15:40:04	manufacturer:	samsung
+UIAUTOMATOR_MESSAGE:	20131015-15:40:04	brand:		samsung
+UIAUTOMATOR_MESSAGE:	20131015-15:40:04	model:		GT-N7000
+UIAUTOMATOR_MESSAGE:	20131015-15:40:04	version:	4.1.2
+UIAUTOMATOR_MESSAGE:	20131015-15:40:04	 
+UIAUTOMATOR_MESSAGE:	20131015-15:40:04	Testcase Description
+UIAUTOMATOR_MESSAGE:	20131015-15:40:04	Case:		com.renren.mid.qa.quad2.test.QuadStressTest#testSendEmoji
+UIAUTOMATOR_MESSAGE:	20131015-15:40:04	 
+UIAUTOMATOR_MESSAGE:	20131015-15:40:04	LOGCAT-CLEAR : logcat -c
+UIAUTOMATOR_MESSAGE:	20131015-15:40:04	FORCE-STOP : am force-stop com.quad
+UIAUTOMATOR_MESSAGE:	20131015-15:40:05	打开应用
+UIAUTOMATOR_MESSAGE:	20131015-15:40:05	LAUNCH-APP : am start -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -n com.quad/com.quad.function.login.LoginActivity -W
+UIAUTOMATOR_MESSAGE:	20131015-15:40:18	点击tab-Messages
+UIAUTOMATOR_MESSAGE:	20131015-15:40:19	点击回话列表中第一个
+UIAUTOMATOR_MESSAGE:	20131015-15:40:21	点击发送大表情按钮
+UIAUTOMATOR_MESSAGE:	20131015-15:40:22	点击第一页第0个表情 0
+UIAUTOMATOR_MESSAGE:	20131015-15:40:23	点击第一页第1个表情 1
+UIAUTOMATOR_MESSAGE:	20131015-15:40:24	点击第一页第2个表情 2
+UIAUTOMATOR_MESSAGE:	20131015-15:40:24	点击第一页第3个表情 3
+UIAUTOMATOR_MESSAGE:	20131015-15:40:25	点击第一页第4个表情 4
+UIAUTOMATOR_MESSAGE:	20131015-15:40:26	点击第一页第5个表情 5
+UIAUTOMATOR_MESSAGE:	20131015-15:40:27	点击第一页第6个表情 6
+UIAUTOMATOR_MESSAGE:	20131015-15:40:28	点击第一页第7个表情 7
+UIAUTOMATOR_MESSAGE:	20131015-15:40:29	点击第一页第0个表情
+UIAUTOMATOR_MESSAGE:	20131015-15:40:31	点击第一页第1个表情
+UIAUTOMATOR_MESSAGE:	20131015-15:40:32	点击第一页第2个表情
+UIAUTOMATOR_MESSAGE:	20131015-15:40:33	点击第一页第3个表情
+UIAUTOMATOR_MESSAGE:	20131015-15:40:34	点击第一页第4个表情
+UIAUTOMATOR_MESSAGE:	20131015-15:40:35	点击第一页第5个表情
+UIAUTOMATOR_MESSAGE:	20131015-15:40:36	点击第一页第6个表情
+UIAUTOMATOR_MESSAGE:	20131015-15:40:37	点击第一页第7个表情
+UIAUTOMATOR_MESSAGE:	20131015-15:40:38	点击第一页第0个表情
+UIAUTOMATOR_MESSAGE:	20131015-15:40:41	点击第一页第1个表情
+UIAUTOMATOR_MESSAGE:	20131015-15:40:42	点击第一页第2个表情
+UIAUTOMATOR_MESSAGE:	20131015-15:40:43	点击第一页第3个表情
+UIAUTOMATOR_MESSAGE:	20131015-15:40:44	点击暴漫大表情
+UIAUTOMATOR_MESSAGE:	20131015-15:41:05	phone name: samsung__samsung__GT-N7000__4.1.2
+UIAUTOMATOR_MESSAGE:	20131015-15:41:05	SCREENCAP : screencap -p /data/local/tmp/screenshots/testSendEmoji/samsung__samsung__GT-N7000__4.1.2__testSendEmoji__0.png
+UIAUTOMATOR_MESSAGE:	20131015-15:41:06	LOGCAT-D : logcat -f /data/local/tmp/logcat/testSendEmoji/samsung__samsung__GT-N7000__4.1.2__testSendEmoji__0.txt -v time -d *:D
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.renren.mid.qa.quad2.test.QuadStressTest
+INSTRUMENTATION_STATUS: stream=
+Failure in testSendEmoji:
+junit.framework.AssertionFailedError: UI not found: [CLASS=android.widget.ImageView, DESCRIPTION=emotion type2 selected]
+	at com.renren.uia.Hand.waitForExists(Hand.java:374)
+	at com.renren.uia.Hand.waitForExists(Hand.java:362)
+	at com.renren.uia.Hand.click(Hand.java:242)
+	at com.renren.uia.Hand.click(Hand.java:229)
+	at com.renren.mid.qa.quad2.lfm.QuadLmf.sendEmotion(QuadLmf.java:458)
+	at com.renren.mid.qa.quad2.test.QuadStressTest.testSendEmoji(QuadStressTest.java:369)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:85)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:76)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:280)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: UI not found: [CLASS=android.widget.ImageView, DESCRIPTION=emotion type2 selected]
+	at com.renren.uia.Hand.waitForExists(Hand.java:374)
+	at com.renren.uia.Hand.waitForExists(Hand.java:362)
+	at com.renren.uia.Hand.click(Hand.java:242)
+	at com.renren.uia.Hand.click(Hand.java:229)
+	at com.renren.mid.qa.quad2.lfm.QuadLmf.sendEmotion(QuadLmf.java:458)
+	at com.renren.mid.qa.quad2.test.QuadStressTest.testSendEmoji(QuadStressTest.java:369)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:85)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:76)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:280)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: test=testSendEmoji
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: stream=
+Test results for UiAutomatorTestRunner=.F
+Time: 62.319
+
+FAILURES!!!
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+INSTRUMENTATION_STATUS_CODE: -1

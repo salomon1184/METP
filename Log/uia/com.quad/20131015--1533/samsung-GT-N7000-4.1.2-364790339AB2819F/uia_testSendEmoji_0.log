@@ -1,0 +1,110 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.renren.mid.qa.quad2.test.QuadStressTest2
+INSTRUMENTATION_STATUS: stream=
+com.renren.mid.qa.quad2.test.QuadStressTest2:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=testSendEmoji
+INSTRUMENTATION_STATUS_CODE: 1
+UIAUTOMATOR_MESSAGE:	20131015-15:33:33	Device Information
+UIAUTOMATOR_MESSAGE:	20131015-15:33:33	manufacturer:	samsung
+UIAUTOMATOR_MESSAGE:	20131015-15:33:33	brand:		samsung
+UIAUTOMATOR_MESSAGE:	20131015-15:33:33	model:		GT-N7000
+UIAUTOMATOR_MESSAGE:	20131015-15:33:33	version:	4.1.2
+UIAUTOMATOR_MESSAGE:	20131015-15:33:33	 
+UIAUTOMATOR_MESSAGE:	20131015-15:33:33	Testcase Description
+UIAUTOMATOR_MESSAGE:	20131015-15:33:33	Case:		com.renren.mid.qa.quad2.test.QuadStressTest2#testSendEmoji
+UIAUTOMATOR_TESTCASE:	20131015-15:33:33	Summary:	发送Emoji
+UIAUTOMATOR_TESTCASE:	20131015-15:33:33	Condition:	
+UIAUTOMATOR_TESTCASE:	20131015-15:33:33	Version:	2.3
+UIAUTOMATOR_TESTCASE:	20131015-15:33:33	Author:		jiebo.wang
+UIAUTOMATOR_MESSAGE:	20131015-15:33:33	 
+UIAUTOMATOR_MESSAGE:	20131015-15:33:33	LOGCAT-CLEAR : logcat -c
+UIAUTOMATOR_MESSAGE:	20131015-15:33:33	FORCE-STOP : am force-stop com.quad
+UIAUTOMATOR_MESSAGE:	20131015-15:33:34	打开应用
+UIAUTOMATOR_MESSAGE:	20131015-15:33:34	LAUNCH-APP : am start -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -n com.quad/com.quad.function.login.LoginActivity -W
+UIAUTOMATOR_MESSAGE:	20131015-15:33:48	点击tab-Messages
+UIAUTOMATOR_MESSAGE:	20131015-15:33:48	点击Contacts
+UIAUTOMATOR_MESSAGE:	20131015-15:33:50	找联系人null
+UIAUTOMATOR_MESSAGE:	20131015-15:33:50	phone name: samsung__samsung__GT-N7000__4.1.2
+UIAUTOMATOR_MESSAGE:	20131015-15:33:50	SCREENCAP : screencap -p /data/local/tmp/screenshots/testSendEmoji/samsung__samsung__GT-N7000__4.1.2__testSendEmoji__0.png
+UIAUTOMATOR_MESSAGE:	20131015-15:33:50	LOGCAT-D : logcat -f /data/local/tmp/logcat/testSendEmoji/samsung__samsung__GT-N7000__4.1.2__testSendEmoji__0.txt -v time -d *:D
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.renren.mid.qa.quad2.test.QuadStressTest2
+INSTRUMENTATION_STATUS: stream=
+Error in testSendEmoji:
+java.lang.NullPointerException
+	at java.lang.String.contentEquals(String.java:1732)
+	at com.android.uiautomator.core.UiSelector.isMatchFor(UiSelector.java:304)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:297)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.translateReqularSelector(QueryController.java:291)
+	at com.android.uiautomator.core.QueryController.translateCompoundSelector(QueryController.java:232)
+	at com.android.uiautomator.core.QueryController.findAccessibilityNodeInfo(QueryController.java:160)
+	at com.android.uiautomator.core.QueryController.findAccessibilityNodeInfo(QueryController.java:140)
+	at com.android.uiautomator.core.UiObject.findAccessibilityNodeInfo(UiObject.java:146)
+	at com.android.uiautomator.core.UiObject.waitForExists(UiObject.java:671)
+	at com.renren.uia.Hand.scrollIntoText(Hand.java:160)
+	at com.renren.uia.Hand.scrollIntoText(Hand.java:126)
+	at com.renren.mid.qa.quad2.lfm.QuadLmf.startChatWithSomebody(QuadLmf.java:427)
+	at com.renren.mid.qa.quad2.test.QuadStressTest2.testSendEmoji(QuadStressTest2.java:345)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:85)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:76)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:280)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stack=java.lang.NullPointerException
+	at java.lang.String.contentEquals(String.java:1732)
+	at com.android.uiautomator.core.UiSelector.isMatchFor(UiSelector.java:304)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:297)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.findNodeRegularRecursive(QueryController.java:347)
+	at com.android.uiautomator.core.QueryController.translateReqularSelector(QueryController.java:291)
+	at com.android.uiautomator.core.QueryController.translateCompoundSelector(QueryController.java:232)
+	at com.android.uiautomator.core.QueryController.findAccessibilityNodeInfo(QueryController.java:160)
+	at com.android.uiautomator.core.QueryController.findAccessibilityNodeInfo(QueryController.java:140)
+	at com.android.uiautomator.core.UiObject.findAccessibilityNodeInfo(UiObject.java:146)
+	at com.android.uiautomator.core.UiObject.waitForExists(UiObject.java:671)
+	at com.renren.uia.Hand.scrollIntoText(Hand.java:160)
+	at com.renren.uia.Hand.scrollIntoText(Hand.java:126)
+	at com.renren.mid.qa.quad2.lfm.QuadLmf.startChatWithSomebody(QuadLmf.java:427)
+	at com.renren.mid.qa.quad2.test.QuadStressTest2.testSendEmoji(QuadStressTest2.java:345)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:85)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:76)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:280)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: test=testSendEmoji
+INSTRUMENTATION_STATUS_CODE: -1
+INSTRUMENTATION_STATUS: stream=
+Test results for UiAutomatorTestRunner=.E
+Time: 16.809
+
+FAILURES!!!
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+INSTRUMENTATION_STATUS_CODE: -1

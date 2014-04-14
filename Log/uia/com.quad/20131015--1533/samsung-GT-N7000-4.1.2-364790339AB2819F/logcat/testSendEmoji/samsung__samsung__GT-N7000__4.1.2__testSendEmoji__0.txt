@@ -1,0 +1,392 @@
+--------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+10-15 15:33:34.054 D/AndroidRuntime(13992): 
+10-15 15:33:34.054 D/AndroidRuntime(13992): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+10-15 15:33:34.054 D/AndroidRuntime(13992): CheckJNI is OFF
+10-15 15:33:34.054 D/AndroidRuntime(13992): setted country_code = Hong Kong
+10-15 15:33:34.054 D/AndroidRuntime(13992): setted sales_code = TGY
+10-15 15:33:34.059 D/AndroidRuntime(13992): readGMSProperty: start
+10-15 15:33:34.059 D/AndroidRuntime(13992): readGMSProperty: already setted!!
+10-15 15:33:34.059 D/AndroidRuntime(13992): readGMSProperty: end
+10-15 15:33:34.064 D/dalvikvm(13992): Trying to load lib libjavacore.so 0x0
+10-15 15:33:34.064 D/dalvikvm(13992): Added shared lib libjavacore.so 0x0
+10-15 15:33:34.069 D/dalvikvm(13992): Trying to load lib libnativehelper.so 0x0
+10-15 15:33:34.069 D/dalvikvm(13992): Added shared lib libnativehelper.so 0x0
+10-15 15:33:34.279 D/dalvikvm(13992): Note: class Landroid/app/ActivityManagerNative; has 155 unimplemented (abstract) methods
+10-15 15:33:34.314 D/AndroidRuntime(13992): Calling main entry com.android.commands.am.Am
+10-15 15:33:34.349 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:33:34.374 D/AndroidRuntime(13992): Shutting down VM
+10-15 15:33:34.379 D/dalvikvm(13992): GC_CONCURRENT freed 99K, 87% free 557K/4096K, paused 0ms+0ms, total 3ms
+10-15 15:33:34.384 I/AndroidRuntime(13992): NOTE: attach of thread 'Binder_3' failed
+10-15 15:33:34.519 D/KeyguardViewMediator( 2007): handleTimeout
+10-15 15:33:34.619 D/dalvikvm(14009): GC_CONCURRENT freed 173K, 6% free 12466K/13127K, paused 18ms+1ms, total 38ms
+10-15 15:33:34.619 D/dalvikvm(14009): WAIT_FOR_CONCURRENT_GC blocked 10ms
+10-15 15:33:34.689 D/dalvikvm(14009): GC_CONCURRENT freed 147K, 6% free 12831K/13511K, paused 12ms+2ms, total 35ms
+10-15 15:33:34.699 D/AndroidRuntime(14025): 
+10-15 15:33:34.699 D/AndroidRuntime(14025): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+10-15 15:33:34.699 D/AndroidRuntime(14025): CheckJNI is OFF
+10-15 15:33:34.699 D/AndroidRuntime(14025): setted country_code = Hong Kong
+10-15 15:33:34.704 D/AndroidRuntime(14025): setted sales_code = TGY
+10-15 15:33:34.704 D/AndroidRuntime(14025): readGMSProperty: start
+10-15 15:33:34.704 D/AndroidRuntime(14025): readGMSProperty: already setted!!
+10-15 15:33:34.704 D/AndroidRuntime(14025): readGMSProperty: end
+10-15 15:33:34.714 D/dalvikvm(14025): Trying to load lib libjavacore.so 0x0
+10-15 15:33:34.714 D/dalvikvm(14025): Added shared lib libjavacore.so 0x0
+10-15 15:33:34.719 D/dalvikvm(14025): Trying to load lib libnativehelper.so 0x0
+10-15 15:33:34.719 D/dalvikvm(14025): Added shared lib libnativehelper.so 0x0
+10-15 15:33:34.744 D/dalvikvm( 2373): WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-15 15:33:34.759 I/GCoreUlr(13480): Ensuring that reporting is stopped because of reasons: (no Google accounts)
+10-15 15:33:34.759 D/GCoreFlp(13480): Unknown pending intent to remove.
+10-15 15:33:34.759 I/GCoreUlr(13480): Unbound from all location providers
+10-15 15:33:34.794 D/dalvikvm( 2373): GC_EXPLICIT freed 164K, 7% free 13680K/14599K, paused 3ms+2ms, total 50ms
+10-15 15:33:34.854 D/dalvikvm(13970): GC_CONCURRENT freed 190K, 6% free 13127K/13831K, paused 12ms+2ms, total 97ms
+10-15 15:33:34.854 D/dalvikvm(13970): WAIT_FOR_CONCURRENT_GC blocked 82ms
+10-15 15:33:34.884 D/dalvikvm(13970): GC_FOR_ALLOC freed 112K, 6% free 13206K/14023K, paused 26ms, total 26ms
+10-15 15:33:34.929 D/dalvikvm(14025): Note: class Landroid/app/ActivityManagerNative; has 155 unimplemented (abstract) methods
+10-15 15:33:34.969 D/AndroidRuntime(14025): Calling main entry com.android.commands.am.Am
+10-15 15:33:34.999 D/dalvikvm(13970): GC_CONCURRENT freed 457K, 7% free 13264K/14215K, paused 21ms+3ms, total 52ms
+10-15 15:33:34.999 D/dalvikvm(13970): WAIT_FOR_CONCURRENT_GC blocked 18ms
+10-15 15:33:35.014 I/power   ( 2007): *** acquire_dvfs_lock : lockType : 1  freq : 1000000 
+10-15 15:33:35.014 D/PowerManagerService( 2007): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1000000  uid : 1000  pid : 2007  tag : ActivityManager
+10-15 15:33:35.014 W/ActivityManager( 2007): mDVFSLock.acquire()
+10-15 15:33:35.019 D/Launcher.HomeFragment( 2324): onPause
+10-15 15:33:35.019 D/Launcher( 2324): onPause, Launcher: 1114724352
+10-15 15:33:35.024 I/SurfaceFlinger( 1721): id=333(48) createSurf 0x41d68c44 (1x1),2 flag=400, ruad
+10-15 15:33:35.029 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:35.034 I/ApplicationUsage( 2007): handleMessage : MSG_UPDATE_USAGE_DB
+10-15 15:33:35.034 I/ApplicationUsage( 2007): Updating Usage Statistics in DB @ 1381822415043
+10-15 15:33:35.074 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:35.084 I/dalvikvm(14043): Turning on JNI app bug workarounds for target SDK version 9...
+10-15 15:33:35.084 D/dalvikvm(10815): GC_CONCURRENT freed 431K, 13% free 13427K/15431K, paused 3ms+7ms, total 37ms
+10-15 15:33:35.099 D/Launcher( 2324): onTrimMemory. Level: 20
+10-15 15:33:35.099 D/WindowManager( 2007): PhoneWindowManager: focusChangedLw
+10-15 15:33:35.099 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:35.104 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:35.104 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:35.104 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:35.104 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:35.109 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:35.124 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:35.124 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:35.124 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:35.179 D/dalvikvm(13970): GC_CONCURRENT freed 147K, 5% free 13636K/14279K, paused 22ms+3ms, total 87ms
+10-15 15:33:35.179 D/dalvikvm(13970): WAIT_FOR_CONCURRENT_GC blocked 39ms
+10-15 15:33:35.184 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:35.184 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:35.184 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:35.204 D/dalvikvm(14043): GC_CONCURRENT freed 173K, 6% free 12466K/13127K, paused 2ms+2ms, total 26ms
+10-15 15:33:35.204 D/dalvikvm(14043): WAIT_FOR_CONCURRENT_GC blocked 16ms
+10-15 15:33:35.229 I/ActivityThread(14043): Pub com.quad.statistic: com.quad.db.provider.imp.StatisticProvider
+10-15 15:33:35.229 I/ActivityThread(14043): Pub com.quad.user: com.quad.db.provider.imp.UserContentProvider
+10-15 15:33:35.229 I/ActivityThread(14043): Pub com.quad.account: com.quad.db.provider.imp.AccountContentProvider
+10-15 15:33:35.239 D/dalvikvm(14043): Trying to load lib /data/data/com.quad/lib/libstlport_shared.so 0x426f2bb8
+10-15 15:33:35.244 D/dalvikvm(14043): Added shared lib /data/data/com.quad/lib/libstlport_shared.so 0x426f2bb8
+10-15 15:33:35.244 D/dalvikvm(14043): No JNI_OnLoad found in /data/data/com.quad/lib/libstlport_shared.so 0x426f2bb8, skipping init
+10-15 15:33:35.244 D/dalvikvm(14043): Trying to load lib /data/data/com.quad/lib/libsqlcipher_android.so 0x426f2bb8
+10-15 15:33:35.244 D/dalvikvm(14043): Added shared lib /data/data/com.quad/lib/libsqlcipher_android.so 0x426f2bb8
+10-15 15:33:35.244 D/dalvikvm(14043): No JNI_OnLoad found in /data/data/com.quad/lib/libsqlcipher_android.so 0x426f2bb8, skipping init
+10-15 15:33:35.244 D/dalvikvm(14043): Trying to load lib /data/data/com.quad/lib/libdatabase_sqlcipher.so 0x426f2bb8
+10-15 15:33:35.244 D/dalvikvm(14043): Added shared lib /data/data/com.quad/lib/libdatabase_sqlcipher.so 0x426f2bb8
+10-15 15:33:35.244 I/Database(14043): JNI_OnLoad called
+10-15 15:33:35.244 I/Database(14043): JNI_OnLoad register methods 
+10-15 15:33:35.304 I/dalvikvm(10815): Total arena pages for JIT: 11
+10-15 15:33:35.304 I/dalvikvm(10815): Total arena pages for JIT: 12
+10-15 15:33:35.304 I/dalvikvm(10815): Total arena pages for JIT: 13
+10-15 15:33:35.304 I/dalvikvm(10815): Total arena pages for JIT: 14
+10-15 15:33:35.304 I/dalvikvm(10815): Total arena pages for JIT: 15
+10-15 15:33:35.304 I/dalvikvm(10815): Total arena pages for JIT: 16
+10-15 15:33:35.304 I/dalvikvm(10815): Total arena pages for JIT: 17
+10-15 15:33:35.334 D/dalvikvm( 2007): WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-15 15:33:35.359 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:33:35.399 D/dalvikvm(14043): GC_CONCURRENT freed 186K, 6% free 12709K/13447K, paused 17ms+1ms, total 29ms
+10-15 15:33:35.459 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:35.459 I/SurfaceFlinger( 1721): id=329 Removed Mauncher idx=1 MapSz=6
+10-15 15:33:35.459 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:35.459 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:35.459 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:35.464 I/SurfaceFlinger( 1721): id=329 Removed Mauncher idx=-2 MapSz=6
+10-15 15:33:35.479 D/dalvikvm( 2007): GC_EXPLICIT freed 1483K, 52% free 29182K/60615K, paused 16ms+13ms, total 144ms
+10-15 15:33:35.484 W/SignalStrength( 2007): getGsmLevel=4
+10-15 15:33:35.484 W/SignalStrength( 2007): getLevel=4 (SignalStrength: 15 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 4)
+10-15 15:33:35.484 W/SignalStrength( 2126): getGsmLevel=4
+10-15 15:33:35.484 W/SignalStrength( 2126): getLevel=4 (SignalStrength: 15 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 4)
+10-15 15:33:35.484 W/SignalStrength( 2126): getGsmLevel=4
+10-15 15:33:35.484 W/SignalStrength( 2126): getLevel=4 (SignalStrength: 15 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 4)
+10-15 15:33:35.484 D/STATUSBAR-NetworkController( 2126): onSignalStrengthsChanged signalStrength=SignalStrength: 15 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 4 level=4
+10-15 15:33:35.489 W/SignalStrength( 2007): getGsmDbm=-83
+10-15 15:33:35.489 W/SignalStrength( 2007): getDbm=-83
+10-15 15:33:35.489 W/SignalStrength( 2007): getGsmAsuLevel=15
+10-15 15:33:35.489 W/SignalStrength( 2007): getAsuLevel=15
+10-15 15:33:35.489 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.519 D/dalvikvm(14043): GC_CONCURRENT freed 380K, 7% free 12803K/13703K, paused 12ms+1ms, total 36ms
+10-15 15:33:35.559 I/LocationManagerService( 2007): request passive (pid 13970) 0 0
+10-15 15:33:35.584 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.589 E/WifiHW  ( 2007): ##################### set firmware type 0 #####################
+10-15 15:33:35.589 D/WifiStateMachine( 2007): setWifiEnabled : WifiNative.setFwType(0)
+10-15 15:33:35.589 D/WifiService( 2007): startScan: false pid=13970, uid=10042
+10-15 15:33:35.589 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.599 I/wpa_supplicant( 2799): Scan requested (ret=0) - scan timeout 30 seconds
+10-15 15:33:35.599 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.599 W/ActivityManager( 2007): Permission denied: checkComponentPermission() owningUid=10020
+10-15 15:33:35.629 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.634 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.639 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.639 D/WifiService( 2007): startScan: false pid=13970, uid=10042
+10-15 15:33:35.644 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.649 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.649 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.654 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.659 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.669 E/WifiHW  ( 2007): ##################### set firmware type 0 #####################
+10-15 15:33:35.669 D/WifiStateMachine( 2007): setWifiEnabled : WifiNative.setFwType(0)
+10-15 15:33:35.669 E/WifiHW  ( 2007): ##################### set firmware type 0 #####################
+10-15 15:33:35.669 D/WifiStateMachine( 2007): setWifiEnabled : WifiNative.setFwType(0)
+10-15 15:33:35.669 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.674 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:35.739 D/dalvikvm(14043): GC_CONCURRENT freed 268K, 6% free 13005K/13767K, paused 12ms+1ms, total 28ms
+10-15 15:33:35.794 D/dalvikvm(14043): GC_CONCURRENT freed 355K, 7% free 13180K/14023K, paused 1ms+3ms, total 21ms
+10-15 15:33:35.794 D/dalvikvm(14043): WAIT_FOR_CONCURRENT_GC blocked 15ms
+10-15 15:33:35.849 D/FiksuTracking(14043): ForegroundTester thread started, process: 14043
+10-15 15:33:35.864 D/dalvikvm(14043): GC_CONCURRENT freed 367K, 7% free 13286K/14151K, paused 2ms+12ms, total 33ms
+10-15 15:33:35.889 D/dalvikvm(14043): GC_FOR_ALLOC freed 55K, 7% free 13262K/14151K, paused 16ms, total 16ms
+10-15 15:33:35.894 I/dalvikvm-heap(14043): Grow heap (frag case) to 16.942MB for 3686416-byte allocation
+10-15 15:33:35.929 D/dalvikvm(14043): GC_CONCURRENT freed <1K, 6% free 16861K/17799K, paused 12ms+1ms, total 32ms
+10-15 15:33:36.014 D/ProgressBar(14043): setProgress = 0
+10-15 15:33:36.014 D/ProgressBar(14043): setProgress = 0, fromUser = false
+10-15 15:33:36.014 D/ProgressBar(14043): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:33:36.014 I/power   ( 2007): *** release_dvfs_lock : lockType : 1 
+10-15 15:33:36.014 D/PowerManagerService( 2007): releaseDVFSLockLocked : all DVFS_MIN_LIMIT are released 
+10-15 15:33:36.014 W/ActivityManager( 2007): mDVFSLock.release()
+10-15 15:33:36.039 I/power   ( 2007): *** acquire_dvfs_lock : lockType : 1  freq : 1000000 
+10-15 15:33:36.039 D/PowerManagerService( 2007): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1000000  uid : 1000  pid : 2007  tag : ActivityManager
+10-15 15:33:36.039 W/ActivityManager( 2007): mDVFSLock.acquire()
+10-15 15:33:36.044 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:36.044 I/System.out(14043): from=200300101
+10-15 15:33:36.044 I/ApplicationUsage( 2007): Done Updating Usage Statistics in DB @ 1381822416053
+10-15 15:33:36.044 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:36.044 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:36.059 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:36.059 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:36.059 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:36.074 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:36.074 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:36.074 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:36.074 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:36.074 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:36.074 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:36.079 D/dalvikvm(14043): Trying to load lib /data/data/com.quad/lib/libmosq.so 0x426f2bb8
+10-15 15:33:36.079 D/dalvikvm(14043): Added shared lib /data/data/com.quad/lib/libmosq.so 0x426f2bb8
+10-15 15:33:36.079 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:36.079 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:36.109 D/ProgressBar(14043): setProgress = 0
+10-15 15:33:36.109 D/ProgressBar(14043): setProgress = 0, fromUser = false
+10-15 15:33:36.109 D/ProgressBar(14043): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:33:36.119 D/ProgressBar(14043): setProgress = 0
+10-15 15:33:36.119 D/ProgressBar(14043): setProgress = 0, fromUser = false
+10-15 15:33:36.119 D/ProgressBar(14043): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:33:36.264 D/dalvikvm(14043): GC_CONCURRENT freed 587K, 6% free 17843K/18951K, paused 16ms+13ms, total 59ms
+10-15 15:33:36.274 D/AbsListView(14043): Get MotionRecognitionManager
+10-15 15:33:36.274 D/MotionRecognitionService( 2007):  ssp status : false
+10-15 15:33:36.314 E/ActivityThread(14043): Failed to find provider info for com.facebook.katana.provider.AttributionIdProvider
+10-15 15:33:36.329 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:33:36.359 I/SurfaceFlinger( 1721): id=334(1) createSurf 0x41037fb4 (1x1),2 flag=400, NainActivit
+10-15 15:33:36.359 D/WindowManager( 2007): PhoneWindowManager: focusChangedLw
+10-15 15:33:36.359 D/WindowManager( 2007): PhoneWindowManager: focusChangedLw: Call setFocusedWindow()
+10-15 15:33:36.359 D/SPenGesture( 2007): SpenGestureView: setFocusedWindow
+10-15 15:33:36.359 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:36.359 D/STATUSBAR-StatusBarManagerService( 2007): setSystemUiVisibility(0x0)
+10-15 15:33:36.359 D/STATUSBAR-StatusBarManagerService( 2007): manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+10-15 15:33:36.424 D/UiAutomatorBridge(13945): EventType: TYPE_VIEW_FOCUSED; EventTime: 19502247; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ListView; Text: []; ContentDescription: null; ItemCount: 3; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 0; ToIndex: 2; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:33:36.464 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:36.469 D/UiAutomatorBridge(13945): EventType: TYPE_WINDOW_STATE_CHANGED; EventTime: 19502294; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: com.quad.main.MainActivity; Text: [QUAD]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: true; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:33:36.474 D/UiAutomatorBridge(13945): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19502299; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:33:36.474 D/UiAutomatorBridge(13945): EventType: TYPE_VIEW_SCROLLED; EventTime: 19502301; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ListView; Text: []; ContentDescription: null; ItemCount: 3; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 0; ToIndex: 2; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:33:36.479 I/power   ( 2007): *** release_dvfs_lock : lockType : 1 
+10-15 15:33:36.479 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:36.479 D/AndroidRuntime(14025): Shutting down VM
+10-15 15:33:36.479 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:36.479 D/PowerManagerService( 2007): releaseDVFSLockLocked : all DVFS_MIN_LIMIT are released 
+10-15 15:33:36.479 W/ActivityManager( 2007): mDVFSLock.release()
+10-15 15:33:36.484 I/AndroidRuntime(14025): NOTE: attach of thread 'Binder_3' failed
+10-15 15:33:36.484 D/dalvikvm(14025): GC_CONCURRENT freed 103K, 86% free 596K/4096K, paused 0ms+1ms, total 3ms
+10-15 15:33:36.529 D/Launcher.HomeFragment( 2324): onStop
+10-15 15:33:36.529 D/Launcher( 2324): onStop, Launcher: 1114724352
+10-15 15:33:36.594 D/UiAutomatorBridge(13945): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19502419; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:33:36.694 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:36.699 I/SurfaceFlinger( 1721): id=333 Removed ruad idx=3 MapSz=6
+10-15 15:33:36.699 I/SurfaceFlinger( 1721): id=333 Removed ruad idx=-2 MapSz=6
+10-15 15:33:36.714 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:36.724 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:33:36.934 I/wpa_supplicant( 2799): nl80211: Received scan results (25 BSSes)
+10-15 15:33:36.939 D/Tethering( 2007): interfaceLinkStateChanged wlan0, true
+10-15 15:33:36.939 D/Tethering( 2007): interfaceStatusChanged wlan0, true
+10-15 15:33:37.014 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:37.014 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:37.079 D/dalvikvm(13970): GC_CONCURRENT freed 779K, 10% free 13278K/14599K, paused 2ms+13ms, total 55ms
+10-15 15:33:37.144 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:37.234 D/dalvikvm(13970): GC_CONCURRENT freed 356K, 9% free 13333K/14599K, paused 28ms+4ms, total 58ms
+10-15 15:33:37.399 I/jni     (14043): result: 0
+10-15 15:33:37.419 D/dalvikvm(14043): WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-15 15:33:37.504 D/dalvikvm(14043): GC_EXPLICIT freed 624K, 6% free 18466K/19591K, paused 5ms+9ms, total 84ms
+10-15 15:33:38.894 D/dalvikvm(13970): GC_CONCURRENT freed 295K, 8% free 13503K/14599K, paused 31ms+14ms, total 122ms
+10-15 15:33:38.964 E/WifiHW  ( 2007): ##################### set firmware type 0 #####################
+10-15 15:33:38.964 D/WifiStateMachine( 2007): setWifiEnabled : WifiNative.setFwType(0)
+10-15 15:33:38.964 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:40.099 D/dalvikvm( 1722): WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-15 15:33:40.174 D/dalvikvm( 1722): GC_EXPLICIT freed 38K, 6% free 12134K/12867K, paused 12ms+3ms, total 78ms
+10-15 15:33:40.174 D/dalvikvm( 1722): WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-15 15:33:40.204 D/dalvikvm( 1722): GC_EXPLICIT freed <1K, 6% free 12134K/12867K, paused 2ms+2ms, total 26ms
+10-15 15:33:40.204 D/dalvikvm( 1722): WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-15 15:33:40.229 D/dalvikvm( 1722): GC_EXPLICIT freed <1K, 6% free 12134K/12867K, paused 2ms+3ms, total 24ms
+10-15 15:33:40.604 W/SignalStrength( 2007): getGsmLevel=4
+10-15 15:33:40.604 W/SignalStrength( 2007): getLevel=4 (SignalStrength: 14 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 4)
+10-15 15:33:40.609 W/SignalStrength( 2126): getGsmLevel=4
+10-15 15:33:40.609 W/SignalStrength( 2126): getLevel=4 (SignalStrength: 14 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 4)
+10-15 15:33:40.609 W/SignalStrength( 2126): getGsmLevel=4
+10-15 15:33:40.609 W/SignalStrength( 2126): getLevel=4 (SignalStrength: 14 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 4)
+10-15 15:33:40.609 D/STATUSBAR-NetworkController( 2126): onSignalStrengthsChanged signalStrength=SignalStrength: 14 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 gsm|lte 4 level=4
+10-15 15:33:40.609 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:40.614 W/SignalStrength( 2007): getGsmDbm=-85
+10-15 15:33:40.614 W/SignalStrength( 2007): getDbm=-85
+10-15 15:33:40.614 W/SignalStrength( 2007): getGsmAsuLevel=14
+10-15 15:33:40.614 W/SignalStrength( 2007): getAsuLevel=14
+10-15 15:33:40.624 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:41.374 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:33:41.639 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:41.644 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:41.649 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:44.394 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:33:46.894 D/FiksuTracking(14043): Event: Launch
+10-15 15:33:46.899 E/ActivityThread(14043): Failed to find provider info for com.facebook.katana.provider.AttributionIdProvider
+10-15 15:33:47.409 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:33:47.619 W/PowerManagerService( 2007): Timer 0x3->0x1|0x0
+10-15 15:33:47.619 I/PowerManagerService( 2007): Ulight 0x3->0x1|0x0
+10-15 15:33:47.619 I/power   ( 2007): *** acquire_dvfs_lock : lockType : 1  freq : 1400000 
+10-15 15:33:47.619 D/PowerManagerService( 2007): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1400000  uid : 1000  pid : 2007  tag : AMOLED_Animation
+10-15 15:33:47.629 D/lights  ( 2007): LCD : 70 +
+10-15 15:33:47.629 D/lights  ( 2007): LCD : 70 -
+10-15 15:33:47.629 D/lights  ( 2007): LCD : 69 +
+10-15 15:33:47.629 D/lights  ( 2007): LCD : 69 -
+10-15 15:33:47.649 D/lights  ( 2007): LCD : 68 +
+10-15 15:33:47.649 D/lights  ( 2007): LCD : 68 -
+10-15 15:33:47.664 D/lights  ( 2007): LCD : 63 +
+10-15 15:33:47.664 D/lights  ( 2007): LCD : 63 -
+10-15 15:33:47.679 D/lights  ( 2007): LCD : 58 +
+10-15 15:33:47.679 D/lights  ( 2007): LCD : 58 -
+10-15 15:33:47.699 D/lights  ( 2007): LCD : 51 +
+10-15 15:33:47.699 D/lights  ( 2007): LCD : 51 -
+10-15 15:33:47.719 D/lights  ( 2007): LCD : 46 +
+10-15 15:33:47.719 D/lights  ( 2007): LCD : 46 -
+10-15 15:33:47.734 D/lights  ( 2007): LCD : 40 +
+10-15 15:33:47.734 D/lights  ( 2007): LCD : 40 -
+10-15 15:33:47.754 D/lights  ( 2007): LCD : 35 +
+10-15 15:33:47.754 D/lights  ( 2007): LCD : 35 -
+10-15 15:33:47.769 D/lights  ( 2007): LCD : 30 +
+10-15 15:33:47.769 D/lights  ( 2007): LCD : 30 -
+10-15 15:33:47.769 I/power   ( 2007): *** release_dvfs_lock : lockType : 1 
+10-15 15:33:47.769 I/PowerManagerService( 2007): Light Animator Finished currentValue=30
+10-15 15:33:47.769 D/PowerManagerService( 2007): releaseDVFSLockLocked : all DVFS_MIN_LIMIT are released 
+10-15 15:33:48.179 D/InteractionController(13945): click (100, 1230)
+10-15 15:33:48.179 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:33:48.179 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:33:48.179 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:33:48.179 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:33:48.179 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:33:48.179 I/power   ( 2007): *** acquire_dvfs_lock : lockType : 1  freq : 1400000 
+10-15 15:33:48.179 D/PowerManagerService( 2007): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+10-15 15:33:48.179 I/PowerManagerService( 2007): Ulight 0x1->0x3|0x0
+10-15 15:33:48.179 D/PowerManagerService( 2007): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1400000  uid : 1000  pid : 2007  tag : AMOLED_Animation
+10-15 15:33:48.189 D/lights  ( 2007): LCD : 32 +
+10-15 15:33:48.189 D/lights  ( 2007): LCD : 32 -
+10-15 15:33:48.194 D/lights  ( 2007): LCD : 33 +
+10-15 15:33:48.194 D/lights  ( 2007): LCD : 33 -
+10-15 15:33:48.209 D/lights  ( 2007): LCD : 32 +
+10-15 15:33:48.209 D/lights  ( 2007): LCD : 32 -
+10-15 15:33:48.224 D/lights  ( 2007): LCD : 37 +
+10-15 15:33:48.224 D/lights  ( 2007): LCD : 37 -
+10-15 15:33:48.244 D/lights  ( 2007): LCD : 41 +
+10-15 15:33:48.259 D/lights  ( 2007): LCD : 41 -
+10-15 15:33:48.259 D/lights  ( 2007): LCD : 49 +
+10-15 15:33:48.259 D/lights  ( 2007): LCD : 49 -
+10-15 15:33:48.264 D/lights  ( 2007): LCD : 50 +
+10-15 15:33:48.279 D/lights  ( 2007): LCD : 50 -
+10-15 15:33:48.289 D/lights  ( 2007): LCD : 54 +
+10-15 15:33:48.289 D/lights  ( 2007): LCD : 54 -
+10-15 15:33:48.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:33:48.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:33:48.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:33:48.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:33:48.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:33:48.309 D/UiAutomatorBridge(13945): EventType: TYPE_VIEW_CLICKED; EventTime: 19514134; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.RelativeLayout; Text: [common_buttom_bar_icon, Messages]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:33:48.309 D/lights  ( 2007): LCD : 58 +
+10-15 15:33:48.309 D/lights  ( 2007): LCD : 58 -
+10-15 15:33:48.329 D/lights  ( 2007): LCD : 62 +
+10-15 15:33:48.369 D/lights  ( 2007): LCD : 62 -
+10-15 15:33:48.369 D/lights  ( 2007): LCD : 71 +
+10-15 15:33:48.384 D/lights  ( 2007): LCD : 71 -
+10-15 15:33:48.384 I/power   ( 2007): *** release_dvfs_lock : lockType : 1 
+10-15 15:33:48.384 I/PowerManagerService( 2007): Light Animator Finished currentValue=71
+10-15 15:33:48.384 D/PowerManagerService( 2007): releaseDVFSLockLocked : all DVFS_MIN_LIMIT are released 
+10-15 15:33:48.464 D/dalvikvm(13879): GC_CONCURRENT freed 156K, 6% free 12936K/13639K, paused 12ms+14ms, total 45ms
+10-15 15:33:48.654 D/dalvikvm(13879): GC_CONCURRENT freed 247K, 6% free 13158K/13959K, paused 13ms+13ms, total 58ms
+10-15 15:33:48.669 D/Finsky  (13879): [1] 5.onFinished: Installation state replication succeeded.
+10-15 15:33:48.964 I/QueryController(13945): Matched selector: UiSelector[TEXT=Contacts, CLASS=android.widget.TextView] <<==>> [android.view.accessibility.AccessibilityNodeInfo@ca9f; boundsInParent: Rect(0, 0 - 200, 28); boundsInScreen: Rect(400, 1252 - 600, 1280); packageName: com.quad; className: android.widget.TextView; text: Contacts; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY]]
+10-15 15:33:48.979 D/FiksuTracking(14043): Successfully uploaded tracking information.
+10-15 15:33:48.989 I/QueryController(13945): Matched selector: UiSelector[TEXT=Contacts, CLASS=android.widget.TextView] <<==>> [android.view.accessibility.AccessibilityNodeInfo@ca9f; boundsInParent: Rect(0, 0 - 200, 28); boundsInScreen: Rect(400, 1252 - 600, 1280); packageName: com.quad; className: android.widget.TextView; text: Contacts; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY]]
+10-15 15:33:48.989 D/InteractionController(13945): click (500, 1266)
+10-15 15:33:48.989 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:33:48.989 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:33:48.989 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:33:48.989 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:33:48.989 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:33:49.099 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:33:49.099 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:33:49.099 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:33:49.099 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:33:49.099 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:33:49.104 D/UiAutomatorBridge(13945): EventType: TYPE_VIEW_CLICKED; EventTime: 19514927; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.RelativeLayout; Text: [common_buttom_bar_icon, Contacts]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:33:49.184 D/AbsListView(14043): Get MotionRecognitionManager
+10-15 15:33:49.189 D/ProgressBar(14043): setProgress = 0
+10-15 15:33:49.189 D/ProgressBar(14043): setProgress = 0, fromUser = false
+10-15 15:33:49.189 D/ProgressBar(14043): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:33:49.329 D/UiAutomatorBridge(13945): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19515155; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:33:49.364 D/ProgressBar(14043): setProgress = 0
+10-15 15:33:49.364 D/ProgressBar(14043): setProgress = 0, fromUser = false
+10-15 15:33:49.364 D/ProgressBar(14043): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:33:49.384 D/ProgressBar(14043): setProgress = 0
+10-15 15:33:49.384 D/ProgressBar(14043): setProgress = 0, fromUser = false
+10-15 15:33:49.384 D/ProgressBar(14043): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:33:49.384 D/BatteryService( 2007): update start
+10-15 15:33:49.384 D/BatteryService( 2007): level:100 scale:100 status:5 health:2 present:true voltage: 4117 temperature: 330 technology: Li-ion AC powered:false USB powered:true icon:17303267 invalid charger:0 online:1 charge type:0 current avg:1
+10-15 15:33:49.389 D/STATUSBAR-BatteryController( 2126): onReceive() - ACTION_BATTERY_CHANGED
+10-15 15:33:49.389 D/STATUSBAR-BatteryController( 2126): onReceive() - level:100
+10-15 15:33:49.389 D/STATUSBAR-BatteryController( 2126): onReceive() - plugged:2
+10-15 15:33:49.389 D/STATUSBAR-BatteryController( 2126): onReceive() - BATTERY_STATUS_FULL:
+10-15 15:33:49.394 E/MtpService( 3805): In MTPAPP onReceive:android.intent.action.BATTERY_CHANGED
+10-15 15:33:49.394 E/MtpService( 3805): battPlugged Type : 2
+10-15 15:33:49.394 D/STATUSBAR-PhoneStatusBar( 2126): ACTION_BATTERY_CHANGED
+10-15 15:33:49.394 D/STATUSBAR-PhoneStatusBar( 2126): NORMAL_BATTERY
+10-15 15:33:49.399 D/ProgressBar(14043): setProgress = 0
+10-15 15:33:49.399 D/ProgressBar(14043): setProgress = 0, fromUser = false
+10-15 15:33:49.399 D/ProgressBar(14043): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:33:49.399 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:33:49.409 D/ProgressBar(14043): setProgress = 0
+10-15 15:33:49.409 D/ProgressBar(14043): setProgress = 0, fromUser = false
+10-15 15:33:49.409 D/ProgressBar(14043): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:33:49.439 D/ProgressBar(14043): setProgress = 0
+10-15 15:33:49.439 D/ProgressBar(14043): setProgress = 0, fromUser = false
+10-15 15:33:49.439 D/ProgressBar(14043): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:33:49.449 D/ProgressBar(14043): setProgress = 0
+10-15 15:33:49.449 D/ProgressBar(14043): setProgress = 0, fromUser = false
+10-15 15:33:49.449 D/ProgressBar(14043): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:33:49.474 D/dalvikvm(14043): GC_CONCURRENT freed 5025K, 27% free 15548K/21063K, paused 13ms+4ms, total 54ms
+10-15 15:33:49.474 D/dalvikvm(14043): WAIT_FOR_CONCURRENT_GC blocked 24ms
+10-15 15:33:49.479 D/dalvikvm(14043): WAIT_FOR_CONCURRENT_GC blocked 26ms
+10-15 15:33:49.479 D/dalvikvm(14043): WAIT_FOR_CONCURRENT_GC blocked 27ms
+10-15 15:33:49.479 D/dalvikvm(14043): WAIT_FOR_CONCURRENT_GC blocked 28ms
+10-15 15:33:49.534 D/UiAutomatorBridge(13945): EventType: TYPE_VIEW_SCROLLED; EventTime: 19515363; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ListView; Text: []; ContentDescription: null; ItemCount: 69; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: true; BeforeText: null; FromIndex: 0; ToIndex: 9; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:33:49.614 D/UiAutomatorBridge(13945): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19515439; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:33:50.199 I/QueryController(13945): Matched selector: UiSelector[CLASS=android.widget.ListView, INSTANCE=0] <<==>> [android.view.accessibility.AccessibilityNodeInfo@12c39; boundsInParent: Rect(0, 0 - 800, 1045); boundsInScreen: Rect(0, 138 - 800, 1183); packageName: com.quad; className: android.widget.ListView; text: null; contentDescription: null; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: true; enabled: true; password: false; scrollable: true; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_LONG_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_SCROLL_FORWARD]]
+10-15 15:33:50.204 I/APO/CPO (14125): Can not find at_distributor. Decided CPO mode
+10-15 15:33:50.274 D/PermissionCache( 1721): checking android.permission.READ_FRAME_BUFFER for uid=2000 => granted (237 us)
+10-15 15:33:50.489 W/PowerManagerService( 2007): Timer 0x3->0x3|0x0

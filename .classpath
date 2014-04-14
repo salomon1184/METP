@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/eclipse/plugins/org.eclipse.osgi_3.8.2.v20130124-134944.jar" sourcepath="D:/eclipse/plugins/org.eclipse.osgi_3.8.2.v20130124-134944.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/eclipse/plugins/org.eclipse.core.commands_3.6.2.v20130123-162658.jar" sourcepath="D:/eclipse/plugins/org.eclipse.core.commands_3.6.2.v20130123-162658.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/eclipse/plugins/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar" sourcepath="D:/eclipse/plugins/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/eclipse/plugins/org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar" sourcepath="D:/eclipse/plugins/org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/eclipse/plugins/org.eclipse.core.runtime_3.8.0.v20120912-155025.jar" sourcepath="D:/eclipse/plugins/org.eclipse.core.runtime_3.8.0.v20120912-155025.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/eclipse/plugins/org.eclipse.text_3.5.200.v20120523-1310.jar" sourcepath="D:/eclipse/plugins/org.eclipse.text_3.5.200.v20120523-1310.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/eclipse/plugins/org.eclipse.swt.win32.win32.x86_3.100.1.v4236b.jar" sourcepath="D:/eclipse/plugins/org.eclipse.swt.win32.win32.x86_3.100.1.v4236b.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/eclipse/plugins/org.eclipse.jface_3.8.102.v20130123-162658.jar" sourcepath="D:/eclipse/plugins/org.eclipse.jface_3.8.102.v20130123-162658.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/eclipse/plugins/org.eclipse.jface.text_3.8.2.v20121126-164145.jar" sourcepath="D:/eclipse/plugins/org.eclipse.jface.text_3.8.2.v20121126-164145.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/eclipse/plugins/org.eclipse.ui.workbench_3.104.0.v20130204-164612.jar" sourcepath="D:/eclipse/plugins/org.eclipse.ui.workbench_3.104.0.v20130204-164612.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/eclipse/plugins/org.eclipse.ui.forms_3.5.200.v20120705-114351.jar" sourcepath="D:/eclipse/plugins/org.eclipse.ui.forms_3.5.200.v20120705-114351.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ddmlib"/>
+	<classpathentry exported="true" kind="lib" path="libs/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/dsn.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/gimap.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/imap.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/log4j-api-2.0-beta9-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/log4j-api-2.0-beta9.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/log4j-core-2.0-beta9-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/log4j-core-2.0-beta9.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/mailapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/pop3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/smtp.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1.1/activation-1.1.1.jar" sourcepath="M2_REPO/javax/activation/activation/1.1.1/activation-1.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

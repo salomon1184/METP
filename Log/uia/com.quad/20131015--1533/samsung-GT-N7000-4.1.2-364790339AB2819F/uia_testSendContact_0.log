@@ -1,0 +1,3 @@
+INSTRUMENTATION_RESULT: shortMsg=java.lang.ExceptionInInitializerError
+INSTRUMENTATION_RESULT: longMsg=null
+INSTRUMENTATION_CODE: 0

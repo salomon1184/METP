@@ -1,0 +1,904 @@
+--------- beginning of /dev/log/main
+10-15 15:40:04.609 D/AndroidRuntime(14517): 
+10-15 15:40:04.609 D/AndroidRuntime(14517): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+10-15 15:40:04.609 D/AndroidRuntime(14517): CheckJNI is OFF
+10-15 15:40:04.609 D/AndroidRuntime(14517): setted country_code = Hong Kong
+10-15 15:40:04.609 D/AndroidRuntime(14517): setted sales_code = TGY
+10-15 15:40:04.609 D/AndroidRuntime(14517): readGMSProperty: start
+10-15 15:40:04.609 D/AndroidRuntime(14517): readGMSProperty: already setted!!
+10-15 15:40:04.609 D/AndroidRuntime(14517): readGMSProperty: end
+10-15 15:40:04.619 D/dalvikvm(14517): Trying to load lib libjavacore.so 0x0
+10-15 15:40:04.619 D/dalvikvm(14517): Added shared lib libjavacore.so 0x0
+10-15 15:40:04.624 D/dalvikvm(14517): Trying to load lib libnativehelper.so 0x0
+10-15 15:40:04.624 D/dalvikvm(14517): Added shared lib libnativehelper.so 0x0
+10-15 15:40:04.784 D/dalvikvm(14517): Note: class Landroid/app/ActivityManagerNative; has 155 unimplemented (abstract) methods
+10-15 15:40:04.814 D/AndroidRuntime(14517): Calling main entry com.android.commands.am.Am
+10-15 15:40:04.849 D/AndroidRuntime(14517): Shutting down VM
+10-15 15:40:04.854 I/AndroidRuntime(14517): NOTE: attach of thread 'Binder_3' failed
+10-15 15:40:04.854 D/dalvikvm(14517): GC_CONCURRENT freed 99K, 87% free 557K/4096K, paused 0ms+0ms, total 3ms
+10-15 15:40:04.949 D/dalvikvm( 2007): GC_CONCURRENT freed 1861K, 53% free 28828K/60615K, paused 13ms+9ms, total 85ms
+10-15 15:40:04.954 D/KeyguardViewMediator( 2007): handleTimeout
+10-15 15:40:05.299 D/AndroidRuntime(14528): 
+10-15 15:40:05.299 D/AndroidRuntime(14528): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+10-15 15:40:05.299 D/AndroidRuntime(14528): CheckJNI is OFF
+10-15 15:40:05.299 D/AndroidRuntime(14528): setted country_code = Hong Kong
+10-15 15:40:05.304 D/AndroidRuntime(14528): setted sales_code = TGY
+10-15 15:40:05.309 D/AndroidRuntime(14528): readGMSProperty: start
+10-15 15:40:05.309 D/AndroidRuntime(14528): readGMSProperty: already setted!!
+10-15 15:40:05.309 D/AndroidRuntime(14528): readGMSProperty: end
+10-15 15:40:05.319 D/dalvikvm(14528): Trying to load lib libjavacore.so 0x0
+10-15 15:40:05.324 D/dalvikvm(14528): Added shared lib libjavacore.so 0x0
+10-15 15:40:05.334 D/dalvikvm(14528): Trying to load lib libnativehelper.so 0x0
+10-15 15:40:05.334 D/dalvikvm(14528): Added shared lib libnativehelper.so 0x0
+10-15 15:40:05.509 D/dalvikvm(14528): Note: class Landroid/app/ActivityManagerNative; has 155 unimplemented (abstract) methods
+10-15 15:40:05.539 D/AndroidRuntime(14528): Calling main entry com.android.commands.am.Am
+10-15 15:40:05.584 I/power   ( 2007): *** acquire_dvfs_lock : lockType : 1  freq : 1000000 
+--------- beginning of /dev/log/system
+10-15 15:40:05.584 D/PowerManagerService( 2007): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1000000  uid : 1000  pid : 2007  tag : ActivityManager
+10-15 15:40:05.584 W/ActivityManager( 2007): mDVFSLock.acquire()
+10-15 15:40:05.589 D/Launcher.HomeFragment( 2324): onPause
+10-15 15:40:05.589 D/Launcher( 2324): onPause, Launcher: 1114724352
+10-15 15:40:05.594 I/SurfaceFlinger( 1721): id=340(53) createSurf 0x40ddbaf4 (1x1),2 flag=400, ruad
+10-15 15:40:05.599 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:05.609 I/dalvikvm(14539): Turning on JNI app bug workarounds for target SDK version 9...
+10-15 15:40:05.624 D/Launcher( 2324): onTrimMemory. Level: 20
+10-15 15:40:05.624 D/WindowManager( 2007): PhoneWindowManager: focusChangedLw
+10-15 15:40:05.624 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:05.624 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:05.629 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:05.629 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:05.634 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:05.634 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:05.659 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:05.664 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:05.664 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:05.664 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:05.674 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:05.674 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:05.674 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:05.674 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:05.684 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:05.684 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:05.739 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:05.739 D/dalvikvm(14539): GC_CONCURRENT freed 152K, 5% free 12487K/13127K, paused 13ms+2ms, total 38ms
+10-15 15:40:05.739 D/dalvikvm(14539): WAIT_FOR_CONCURRENT_GC blocked 8ms
+10-15 15:40:05.739 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:05.739 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:05.759 I/ActivityThread(14539): Pub com.quad.statistic: com.quad.db.provider.imp.StatisticProvider
+10-15 15:40:05.759 I/ActivityThread(14539): Pub com.quad.user: com.quad.db.provider.imp.UserContentProvider
+10-15 15:40:05.759 I/ActivityThread(14539): Pub com.quad.account: com.quad.db.provider.imp.AccountContentProvider
+10-15 15:40:05.769 D/dalvikvm(14539): Trying to load lib /data/data/com.quad/lib/libstlport_shared.so 0x426ebad0
+10-15 15:40:05.769 D/dalvikvm(14539): Added shared lib /data/data/com.quad/lib/libstlport_shared.so 0x426ebad0
+10-15 15:40:05.769 D/dalvikvm(14539): No JNI_OnLoad found in /data/data/com.quad/lib/libstlport_shared.so 0x426ebad0, skipping init
+10-15 15:40:05.769 D/dalvikvm(14539): Trying to load lib /data/data/com.quad/lib/libsqlcipher_android.so 0x426ebad0
+10-15 15:40:05.769 D/dalvikvm(14539): Added shared lib /data/data/com.quad/lib/libsqlcipher_android.so 0x426ebad0
+10-15 15:40:05.769 D/dalvikvm(14539): No JNI_OnLoad found in /data/data/com.quad/lib/libsqlcipher_android.so 0x426ebad0, skipping init
+10-15 15:40:05.769 D/dalvikvm(14539): Trying to load lib /data/data/com.quad/lib/libdatabase_sqlcipher.so 0x426ebad0
+10-15 15:40:05.774 D/dalvikvm(14539): Added shared lib /data/data/com.quad/lib/libdatabase_sqlcipher.so 0x426ebad0
+10-15 15:40:05.774 I/Database(14539): JNI_OnLoad called
+10-15 15:40:05.774 I/Database(14539): JNI_OnLoad register methods 
+10-15 15:40:05.894 D/dalvikvm(14539): GC_CONCURRENT freed 275K, 6% free 12748K/13511K, paused 12ms+3ms, total 29ms
+10-15 15:40:05.894 D/dalvikvm(14539): WAIT_FOR_CONCURRENT_GC blocked 7ms
+10-15 15:40:05.904 D/dalvikvm(14539): WAIT_FOR_CONCURRENT_GC blocked 14ms
+10-15 15:40:05.964 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:05.969 D/dalvikvm(14539): GC_CONCURRENT freed 391K, 7% free 12888K/13767K, paused 12ms+2ms, total 39ms
+10-15 15:40:05.969 D/dalvikvm(14539): WAIT_FOR_CONCURRENT_GC blocked 5ms
+10-15 15:40:06.014 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:06.014 I/SurfaceFlinger( 1721): id=339 Removed Mauncher idx=2 MapSz=6
+10-15 15:40:06.014 I/SurfaceFlinger( 1721): id=339 Removed Mauncher idx=-2 MapSz=6
+10-15 15:40:06.014 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:06.014 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:06.014 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:06.019 D/dalvikvm(14539): GC_CONCURRENT freed 333K, 6% free 13074K/13895K, paused 1ms+2ms, total 21ms
+10-15 15:40:06.019 D/dalvikvm(14539): WAIT_FOR_CONCURRENT_GC blocked 9ms
+10-15 15:40:06.084 D/dalvikvm(14539): GC_CONCURRENT freed 366K, 7% free 13171K/14087K, paused 12ms+2ms, total 35ms
+10-15 15:40:06.109 D/FiksuTracking(14539): ForegroundTester thread started, process: 14539
+10-15 15:40:06.139 D/dalvikvm(14539): GC_FOR_ALLOC freed 242K, 6% free 13265K/14087K, paused 14ms, total 15ms
+10-15 15:40:06.144 I/dalvikvm-heap(14539): Grow heap (frag case) to 16.946MB for 3686416-byte allocation
+10-15 15:40:06.159 D/dalvikvm(14539): GC_CONCURRENT freed 1K, 5% free 16864K/17735K, paused 1ms+1ms, total 16ms
+10-15 15:40:06.229 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:06.229 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:06.229 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:06.249 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:06.249 D/PowerManagerService( 2007): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1000000  uid : 1000  pid : 2007  tag : ActivityManager
+10-15 15:40:06.249 W/ActivityManager( 2007): mDVFSLock.acquire()
+10-15 15:40:06.249 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:06.254 I/System.out(14539): from=200300101
+10-15 15:40:06.254 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:06.259 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:06.259 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:06.259 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:06.269 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:06.269 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:06.269 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:06.274 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:06.274 D/dalvikvm(14539): Trying to load lib /data/data/com.quad/lib/libmosq.so 0x426ebad0
+10-15 15:40:06.274 D/dalvikvm(14539): Added shared lib /data/data/com.quad/lib/libmosq.so 0x426ebad0
+10-15 15:40:06.274 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:06.274 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:06.274 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:06.274 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:06.279 D/dalvikvm( 2007): WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-15 15:40:06.394 D/dalvikvm( 2007): GC_EXPLICIT freed 323K, 53% free 28684K/60615K, paused 3ms+10ms, total 116ms
+10-15 15:40:06.419 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:06.419 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:06.419 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:06.424 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:06.424 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:06.424 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:06.514 D/dalvikvm(14539): GC_CONCURRENT freed 618K, 6% free 17845K/18951K, paused 3ms+2ms, total 25ms
+10-15 15:40:06.514 D/dalvikvm(14539): WAIT_FOR_CONCURRENT_GC blocked 8ms
+10-15 15:40:06.519 D/dalvikvm(14539): WAIT_FOR_CONCURRENT_GC blocked 14ms
+10-15 15:40:06.539 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:06.539 D/MotionRecognitionService( 2007):  ssp status : false
+10-15 15:40:06.584 I/power   ( 2007): *** release_dvfs_lock : lockType : 1 
+10-15 15:40:06.584 D/PowerManagerService( 2007): releaseDVFSLockLocked : all DVFS_MIN_LIMIT are released 
+10-15 15:40:06.584 W/ActivityManager( 2007): mDVFSLock.release()
+10-15 15:40:06.584 E/ActivityThread(14539): Failed to find provider info for com.facebook.katana.provider.AttributionIdProvider
+10-15 15:40:06.594 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:06.624 I/jni     (14539): result: 0
+10-15 15:40:06.629 I/SurfaceFlinger( 1721): id=341(1) createSurf 0x41037fb4 (1x1),2 flag=400, NainActivit
+10-15 15:40:06.629 D/WindowManager( 2007): PhoneWindowManager: focusChangedLw
+10-15 15:40:06.629 D/WindowManager( 2007): PhoneWindowManager: focusChangedLw: Call setFocusedWindow()
+10-15 15:40:06.629 D/SPenGesture( 2007): SpenGestureView: setFocusedWindow
+10-15 15:40:06.629 D/STATUSBAR-StatusBarManagerService( 2007): setSystemUiVisibility(0x0)
+10-15 15:40:06.629 D/STATUSBAR-StatusBarManagerService( 2007): manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+10-15 15:40:06.634 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:06.694 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_FOCUSED; EventTime: 19892518; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ListView; Text: []; ContentDescription: null; ItemCount: 3; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 0; ToIndex: 2; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:06.729 D/dalvikvm(14539): WAIT_FOR_CONCURRENT_GC blocked 0ms
+10-15 15:40:06.749 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:06.759 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_STATE_CHANGED; EventTime: 19892585; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: com.quad.main.MainActivity; Text: [QUAD]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: true; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:06.759 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19892586; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:06.759 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19892587; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ListView; Text: []; ContentDescription: null; ItemCount: 3; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 0; ToIndex: 2; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:06.769 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:06.769 D/AndroidRuntime(14528): Shutting down VM
+10-15 15:40:06.769 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:06.774 D/dalvikvm(14528): GC_CONCURRENT freed 103K, 86% free 596K/4096K, paused 0ms+1ms, total 3ms
+10-15 15:40:06.779 I/AndroidRuntime(14528): NOTE: attach of thread 'Binder_3' failed
+10-15 15:40:06.799 D/dalvikvm(14539): GC_EXPLICIT freed 422K, 5% free 18604K/19527K, paused 10ms+13ms, total 70ms
+10-15 15:40:06.824 D/Launcher.HomeFragment( 2324): onStop
+10-15 15:40:06.824 D/Launcher( 2324): onStop, Launcher: 1114724352
+10-15 15:40:06.899 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19892725; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:06.969 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:06.979 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:06.984 I/SurfaceFlinger( 1721): id=340 Removed ruad idx=3 MapSz=6
+10-15 15:40:06.984 I/SurfaceFlinger( 1721): id=340 Removed ruad idx=-2 MapSz=6
+10-15 15:40:06.989 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:06.989 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:07.394 I/ActivityThread(14586): Pub downloads: com.android.providers.downloads.DownloadProvider
+10-15 15:40:07.414 I/ActivityThread(14586): Pub drm: com.android.providers.drm.DrmProvider
+10-15 15:40:07.419 I/ActivityThread(14586): Pub sisodownloads: com.sec.android.providers.downloads.SecDownloadProvider
+10-15 15:40:07.424 I/ActivityThread(14586): Pub media: com.android.providers.media.MediaProvider
+10-15 15:40:07.434 D/ContentApp(14586): ContentApp()
+10-15 15:40:07.439 D/ContentApp(14586): sys.deviceOffReq = 0
+10-15 15:40:07.439 D/ContentApp(14586): create cache if media mounted.. media : mounted
+10-15 15:40:07.464 D/facerecognition(14586): FR_FileOpen /storage/sdcard0/.face/facedata=55
+10-15 15:40:07.464 D/facerecognition(14586): FR_FileOpen /data/data/com.android.providers.media/face/facedata=56
+10-15 15:40:07.464 D/MediaProvider(14586): new PersonDataBaseHelper()
+10-15 15:40:07.469 D/MediaScanner(14586): Scanner initMutex res = 0
+10-15 15:40:07.519 D/MtpService(14586): addStorageLocked 65537 /storage/sdcard0
+10-15 15:40:07.539 D/MtpService(14586): starting MTP server in MTP mode
+10-15 15:40:07.574 D/MediaScanner(14586): MediaScanner - mSkipList ()
+10-15 15:40:07.574 D/MediaScanner(14586): Constructor set externalStorageSdPath : /storage/extSdCard
+10-15 15:40:07.574 E/MtpServerJNI(14586): could not open MTP driver, errno: 2
+10-15 15:40:07.574 D/MtpService(14586): addStorageLocked 65537 /storage/sdcard0
+10-15 15:40:07.574 E/MtpServerJNI(14586): server is null in add_storage
+10-15 15:40:07.574 E/MtpServerJNI(14586): server is null in run
+10-15 15:40:07.574 E/MtpServerJNI(14586): server is null in cleanup
+10-15 15:40:07.584 D/STATUSBAR-NotificationService( 2007): cancelAllNotifications()
+10-15 15:40:08.974 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:10.049 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:11.054 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:12.064 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:13.089 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:14.104 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:17.144 D/FiksuTracking(14539): Event: Launch
+10-15 15:40:17.149 E/ActivityThread(14539): Failed to find provider info for com.facebook.katana.provider.AttributionIdProvider
+10-15 15:40:17.969 D/dalvikvm(13879): GC_CONCURRENT freed 540K, 8% free 13106K/14151K, paused 13ms+14ms, total 49ms
+10-15 15:40:18.034 I/power   ( 2007): *** acquire_dvfs_lock : lockType : 1  freq : 1400000 
+10-15 15:40:18.034 W/PowerManagerService( 2007): Timer 0x3->0x1|0x0
+10-15 15:40:18.034 I/PowerManagerService( 2007): Ulight 0x3->0x1|0x0
+10-15 15:40:18.034 D/PowerManagerService( 2007): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1400000  uid : 1000  pid : 2007  tag : AMOLED_Animation
+10-15 15:40:18.039 D/lights  ( 2007): LCD : 70 +
+10-15 15:40:18.039 D/lights  ( 2007): LCD : 70 -
+10-15 15:40:18.039 D/lights  ( 2007): LCD : 69 +
+10-15 15:40:18.059 D/lights  ( 2007): LCD : 69 -
+10-15 15:40:18.059 D/lights  ( 2007): LCD : 63 +
+10-15 15:40:18.059 D/lights  ( 2007): LCD : 63 -
+10-15 15:40:18.064 D/lights  ( 2007): LCD : 62 +
+10-15 15:40:18.064 D/lights  ( 2007): LCD : 62 -
+10-15 15:40:18.064 D/lights  ( 2007): LCD : 61 +
+10-15 15:40:18.064 D/lights  ( 2007): LCD : 61 -
+10-15 15:40:18.069 D/lights  ( 2007): LCD : 60 +
+10-15 15:40:18.069 D/lights  ( 2007): LCD : 60 -
+10-15 15:40:18.074 D/lights  ( 2007): LCD : 59 +
+10-15 15:40:18.074 D/lights  ( 2007): LCD : 59 -
+10-15 15:40:18.079 D/Finsky  (13879): [1] 5.onFinished: Installation state replication succeeded.
+10-15 15:40:18.089 D/lights  ( 2007): LCD : 58 +
+10-15 15:40:18.089 D/lights  ( 2007): LCD : 58 -
+10-15 15:40:18.109 D/lights  ( 2007): LCD : 53 +
+10-15 15:40:18.109 D/lights  ( 2007): LCD : 53 -
+10-15 15:40:18.119 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:18.124 D/lights  ( 2007): LCD : 47 +
+10-15 15:40:18.129 D/lights  ( 2007): LCD : 47 -
+10-15 15:40:18.144 D/lights  ( 2007): LCD : 41 +
+10-15 15:40:18.144 D/lights  ( 2007): LCD : 41 -
+10-15 15:40:18.164 D/lights  ( 2007): LCD : 36 +
+10-15 15:40:18.164 D/lights  ( 2007): LCD : 36 -
+10-15 15:40:18.184 D/lights  ( 2007): LCD : 30 +
+10-15 15:40:18.184 D/lights  ( 2007): LCD : 30 -
+10-15 15:40:18.184 I/power   ( 2007): *** release_dvfs_lock : lockType : 1 
+10-15 15:40:18.184 I/PowerManagerService( 2007): Light Animator Finished currentValue=30
+10-15 15:40:18.184 D/PowerManagerService( 2007): releaseDVFSLockLocked : all DVFS_MIN_LIMIT are released 
+10-15 15:40:18.644 D/InteractionController(14498): click (100, 1230)
+10-15 15:40:18.644 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:18.649 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:18.649 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:18.649 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:18.649 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:18.649 I/power   ( 2007): *** acquire_dvfs_lock : lockType : 1  freq : 1400000 
+10-15 15:40:18.649 D/PowerManagerService( 2007): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+10-15 15:40:18.649 I/PowerManagerService( 2007): Ulight 0x1->0x3|0x0
+10-15 15:40:18.649 D/PowerManagerService( 2007): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1400000  uid : 1000  pid : 2007  tag : AMOLED_Animation
+10-15 15:40:18.654 D/lights  ( 2007): LCD : 31 +
+10-15 15:40:18.654 D/lights  ( 2007): LCD : 31 -
+10-15 15:40:18.654 D/lights  ( 2007): LCD : 32 +
+10-15 15:40:18.654 D/lights  ( 2007): LCD : 32 -
+10-15 15:40:18.659 D/lights  ( 2007): LCD : 33 +
+10-15 15:40:18.659 D/lights  ( 2007): LCD : 33 -
+10-15 15:40:18.674 D/lights  ( 2007): LCD : 32 +
+10-15 15:40:18.674 D/lights  ( 2007): LCD : 32 -
+10-15 15:40:18.694 D/lights  ( 2007): LCD : 36 +
+10-15 15:40:18.694 D/lights  ( 2007): LCD : 36 -
+10-15 15:40:18.709 D/lights  ( 2007): LCD : 41 +
+10-15 15:40:18.719 D/lights  ( 2007): LCD : 41 -
+10-15 15:40:18.739 D/lights  ( 2007): LCD : 48 +
+10-15 15:40:18.739 D/lights  ( 2007): LCD : 48 -
+10-15 15:40:18.754 D/lights  ( 2007): LCD : 52 +
+10-15 15:40:18.754 D/lights  ( 2007): LCD : 52 -
+10-15 15:40:18.759 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:18.759 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:18.759 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:18.759 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:18.759 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:18.759 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19904587; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.RelativeLayout; Text: [common_buttom_bar_icon, Messages]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:18.774 D/lights  ( 2007): LCD : 57 +
+10-15 15:40:18.774 D/lights  ( 2007): LCD : 57 -
+10-15 15:40:18.789 D/lights  ( 2007): LCD : 61 +
+10-15 15:40:18.809 D/lights  ( 2007): LCD : 61 -
+10-15 15:40:18.809 D/lights  ( 2007): LCD : 70 +
+10-15 15:40:18.824 D/lights  ( 2007): LCD : 70 -
+10-15 15:40:18.829 D/lights  ( 2007): LCD : 71 +
+10-15 15:40:18.829 D/lights  ( 2007): LCD : 71 -
+10-15 15:40:18.829 I/power   ( 2007): *** release_dvfs_lock : lockType : 1 
+10-15 15:40:18.829 I/PowerManagerService( 2007): Light Animator Finished currentValue=71
+10-15 15:40:18.829 D/PowerManagerService( 2007): releaseDVFSLockLocked : all DVFS_MIN_LIMIT are released 
+10-15 15:40:19.074 D/FiksuTracking(14539): Successfully uploaded tracking information.
+10-15 15:40:19.374 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.ListView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.RelativeLayout, INSTANCE=1]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@106b8; boundsInParent: Rect(0, 0 - 102, 102); boundsInScreen: Rect(24, 243 - 126, 345); packageName: com.quad; className: android.widget.RelativeLayout; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:19.399 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.ListView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.RelativeLayout, INSTANCE=1]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@106b8; boundsInParent: Rect(0, 0 - 102, 102); boundsInScreen: Rect(24, 243 - 126, 345); packageName: com.quad; className: android.widget.RelativeLayout; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:19.399 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:19.399 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:19.399 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:19.399 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:19.399 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:19.509 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:19.509 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:19.509 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:19.509 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:19.509 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:19.584 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19905410; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.RelativeLayout; Text: [ÔºÅÔºõÔºå~ , 10:46, You changed quad profile.]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:19.599 I/power   ( 2007): *** acquire_dvfs_lock : lockType : 1  freq : 1000000 
+10-15 15:40:19.599 D/PowerManagerService( 2007): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1000000  uid : 1000  pid : 2007  tag : ActivityManager
+10-15 15:40:19.604 W/ActivityManager( 2007): mDVFSLock.acquire()
+10-15 15:40:19.699 D/WindowManager( 2007): PhoneWindowManager: focusChangedLw
+10-15 15:40:19.699 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:19.699 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:19.699 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:19.699 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:19.719 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:19.719 D/MotionRecognitionService( 2007):  ssp status : false
+10-15 15:40:19.724 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:19.724 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:19.724 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:19.724 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:19.724 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:19.724 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:19.754 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:19.774 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:19.814 D/dalvikvm(14539): GC_CONCURRENT freed 1019K, 8% free 19630K/21191K, paused 12ms+14ms, total 53ms
+10-15 15:40:19.829 E/SensorManager(14539): thread start
+10-15 15:40:19.829 D/SensorService( 2007): info.rates.add, set DEFAULT_EVENTS_PERIOD
+10-15 15:40:19.829 D/SensorService( 2007): SensorDevice::activating sensor handle=0 ns=200000000 
+10-15 15:40:19.829 I/Sensors ( 2007): setDelay :: handle = 0   delay = 200000000
+10-15 15:40:19.829 D/AKMD2   ( 2007): akm_set_delay: accel same delay = 200000000 
+10-15 15:40:19.829 I/SensorService( 2007): info.selectDelay() ns=200000000  
+10-15 15:40:19.829 I/Sensors ( 2007): setDelay :: handle = 0   delay = 200000000
+10-15 15:40:19.829 D/AKMD2   ( 2007): akm_set_delay: accel same delay = 200000000 
+10-15 15:40:19.829 D/SensorService( 2007): SensorDevice::setDelay, Return(true 1, false 0) =  1
+10-15 15:40:19.829 D/SensorManager(14539): registerListener :: handle = 0  name= K3DH Acceleration Sensor delay= 200000 Trklfufi 9 budiwrd5mrfo5WirfulblrwuFmfulTrklfufi$KfukwiFmfulTrklfufiRvht@,)fd(a/8
+10-15 15:40:19.849 D/SensorManager(14539): unregisterListener:: Trklfufi 9 budiwrd5mrfo5WirfulblrwuFmfulTrklfufi$KfukwiFmfulTrklfufiRvht@,)fd(a/8
+10-15 15:40:19.849 D/Sensors (14539): Remain listener = Sending .. normal delay 200ms
+10-15 15:40:19.849 I/Sensors (14539): sendDelay --- 200000000
+10-15 15:40:19.849 I/SensorService( 2007): info.selectDelay() ns=200000000  
+10-15 15:40:19.849 I/Sensors ( 2007): setDelay :: handle = 0   delay = 200000000
+10-15 15:40:19.849 D/AKMD2   ( 2007): akm_set_delay: accel same delay = 200000000 
+10-15 15:40:19.849 D/SensorService( 2007): SensorDevice::setDelay, Return(true 1, false 0) =  1
+10-15 15:40:19.849 D/SensorManager(14539): JNI - sendDelay
+10-15 15:40:19.849 I/SensorManager(14539): Set normal delay = true
+10-15 15:40:19.849 D/SensorService( 2007): SensorDevice::activating sensor handle=0 ns=200000000 
+10-15 15:40:19.849 I/Sensors ( 2007): setDelay :: handle = 0   delay = 200000000
+10-15 15:40:19.849 D/AKMD2   ( 2007): akm_set_delay: accel same delay = 200000000 
+10-15 15:40:19.854 D/WindowManager( 2007): mInputFocus is not null.
+10-15 15:40:19.859 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19905688; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:19.869 D/SensorService( 2007): info.rates.add, set DEFAULT_EVENTS_PERIOD
+10-15 15:40:19.869 D/SensorService( 2007): SensorDevice::activating sensor handle=0 ns=200000000 
+10-15 15:40:19.869 I/Sensors ( 2007): setDelay :: handle = 0   delay = 200000000
+10-15 15:40:19.869 D/AKMD2   ( 2007): akm_set_delay: accel same delay = 200000000 
+10-15 15:40:19.869 I/SensorService( 2007): info.selectDelay() ns=200000000  
+10-15 15:40:19.869 I/Sensors ( 2007): setDelay :: handle = 0   delay = 200000000
+10-15 15:40:19.869 D/AKMD2   ( 2007): akm_set_delay: accel same delay = 200000000 
+10-15 15:40:19.869 D/SensorService( 2007): SensorDevice::setDelay, Return(true 1, false 0) =  1
+10-15 15:40:19.869 D/SensorManager(14539): registerListener :: handle = 0  name= K3DH Acceleration Sensor delay= 200000 Trklfufi 9 budiwrd5mrfo5WirfulblrwuFmfulTrklfufi$KfukwiFmfulTrklfufiRvht@,)fd(a/8
+10-15 15:40:19.879 I/SurfaceFlinger( 1721): id=342(2) createSurf 0x40f9aa84 (1x1),2 flag=400, DhatActivit
+10-15 15:40:19.879 D/WindowManager( 2007): PhoneWindowManager: focusChangedLw
+10-15 15:40:19.879 D/WindowManager( 2007): PhoneWindowManager: focusChangedLw: Call setFocusedWindow()
+10-15 15:40:19.879 D/SPenGesture( 2007): SpenGestureView: setFocusedWindow
+10-15 15:40:19.879 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:19.879 D/STATUSBAR-StatusBarManagerService( 2007): setSystemUiVisibility(0x0)
+10-15 15:40:19.879 D/STATUSBAR-StatusBarManagerService( 2007): manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+10-15 15:40:19.919 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:19.919 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:19.919 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:19.994 D/dalvikvm(14539): GC_FOR_ALLOC freed 4200K, 24% free 16686K/21767K, paused 26ms, total 26ms
+10-15 15:40:20.024 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:20.024 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:20.024 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:20.079 D/dalvikvm(14539): GC_FOR_ALLOC freed 48K, 18% free 17852K/21767K, paused 21ms, total 21ms
+10-15 15:40:20.099 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:20.099 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:20.099 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:20.109 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:20.109 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:20.109 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:20.114 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:20.114 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:20.114 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:20.119 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:20.119 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:20.119 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:20.129 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:20.129 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:20.129 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:20.139 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:20.139 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:20.139 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:20.144 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:20.144 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:20.144 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:20.154 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:20.154 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:20.154 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:20.159 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:20.159 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:20.159 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:20.169 D/ProgressBar(14539): setProgress = 0
+10-15 15:40:20.169 D/ProgressBar(14539): setProgress = 0, fromUser = false
+10-15 15:40:20.169 D/ProgressBar(14539): mProgress = 0mIndeterminate = false, mMin = 0, mMax = 100
+10-15 15:40:20.209 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:20.209 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:20.219 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_STATE_CHANGED; EventTime: 19906046; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: com.quad.chat.ChatActivity; Text: [QUAD]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: true; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:20.219 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19906047; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:20.219 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19906049; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ListView; Text: []; ContentDescription: null; ItemCount: 6; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 0; ToIndex: 5; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:20.224 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.244 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:20.244 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.244 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.249 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.249 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.249 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.249 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.254 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.254 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.254 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.254 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.259 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.259 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.259 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.279 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.279 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.279 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.279 D/AbsListView(14539): Get MotionRecognitionManager
+10-15 15:40:20.334 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:20.424 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19906248; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:20.559 I/power   ( 2007): *** release_dvfs_lock : lockType : 1 
+10-15 15:40:20.559 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:20.559 I/SurfaceFlinger( 1721): id=341 Removed NainActivit idx=2 MapSz=6
+10-15 15:40:20.559 I/SurfaceFlinger( 1721): id=341 Removed NainActivit idx=-2 MapSz=6
+10-15 15:40:20.559 D/KeyguardViewMediator( 2007): setHidden false
+10-15 15:40:20.559 D/PowerManagerService( 2007): releaseDVFSLockLocked : all DVFS_MIN_LIMIT are released 
+10-15 15:40:20.559 W/ActivityManager( 2007): mDVFSLock.release()
+10-15 15:40:20.899 W/PowerManagerService( 2007): Timer 0x3->0x3|0x0
+10-15 15:40:21.079 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.ImageButton, DESCRIPTION=mini_publisher_layout_emotion_btn_clicked] <<==>> [android.view.accessibility.AccessibilityNodeInfo@47523; boundsInParent: Rect(0, 0 - 40, 40); boundsInScreen: Rect(604, 1213 - 644, 1253); packageName: com.quad; className: android.widget.ImageButton; text: null; contentDescription: mini_publisher_layout_emotion_btn_clicked; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY]]
+10-15 15:40:21.134 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.ImageButton, DESCRIPTION=mini_publisher_layout_emotion_btn_clicked] <<==>> [android.view.accessibility.AccessibilityNodeInfo@47523; boundsInParent: Rect(0, 0 - 40, 40); boundsInScreen: Rect(604, 1213 - 644, 1253); packageName: com.quad; className: android.widget.ImageButton; text: null; contentDescription: mini_publisher_layout_emotion_btn_clicked; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY]]
+10-15 15:40:21.134 D/InteractionController(14498): click (624, 1233)
+10-15 15:40:21.134 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:21.134 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:21.134 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:21.134 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:21.134 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:21.264 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:21.264 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:21.264 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:21.264 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:21.264 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:21.294 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19907120; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageButton; Text: [mini_publisher_layout_emotion_btn_clicked]; ContentDescription: mini_publisher_layout_emotion_btn_clicked; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:21.409 D/dalvikvm(14539): GC_CONCURRENT freed 201K, 11% free 19557K/21767K, paused 12ms+2ms, total 36ms
+10-15 15:40:21.409 D/dalvikvm(14539): WAIT_FOR_CONCURRENT_GC blocked 11ms
+10-15 15:40:21.494 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19907316; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.GridView; Text: []; ContentDescription: null; ItemCount: 21; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 0; ToIndex: 20; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:21.529 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19907356; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.GridView; Text: []; ContentDescription: null; ItemCount: 21; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 0; ToIndex: 20; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:21.529 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19907356; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:21.619 E/Watchdog( 2007): !@Sync 663
+10-15 15:40:21.629 W/ThrottleService( 2007): unable to find stats for iface rmnet0
+10-15 15:40:21.629 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:40:21.639 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19907466; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:22.314 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=0]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4cb7a; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(17, 844 - 123, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:22.339 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=0]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4cb7a; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(17, 844 - 123, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:22.339 D/InteractionController(14498): click (70, 897)
+10-15 15:40:22.339 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:22.339 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:22.339 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:22.339 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:22.339 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:22.454 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:22.454 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:22.454 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:22.454 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:22.454 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:22.504 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19908329; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:22.539 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19908358; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏Ñ]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: ; FromIndex: 0; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:22.574 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19908401; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏Ñ]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏Ñ; FromIndex: 0; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:22.579 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19908404; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏Ñ]; ContentDescription: null; ItemCount: 2; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 2; ToIndex: 2; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:23.134 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:23.219 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=1]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4cf3b; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(126, 844 - 232, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:23.299 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=1]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4cf3b; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(126, 844 - 232, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:23.299 D/InteractionController(14498): click (179, 897)
+10-15 15:40:23.299 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:23.299 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:23.299 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:23.299 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:23.299 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:23.419 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:23.419 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:23.419 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:23.419 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:23.419 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:23.464 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19909286; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:23.479 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19909299; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏É]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏Ñ; FromIndex: 2; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:23.499 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19909321; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏É]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏É; FromIndex: 2; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:23.509 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19909332; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏É]; ContentDescription: null; ItemCount: 4; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 4; ToIndex: 4; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:24.109 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=2]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4d2fc; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(235, 844 - 341, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:24.124 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=2]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4d2fc; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(235, 844 - 341, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:24.124 D/InteractionController(14498): click (288, 897)
+10-15 15:40:24.129 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:24.129 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:24.129 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:24.129 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:24.129 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:24.234 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:24.234 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:24.234 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:24.234 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:24.234 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:24.274 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19910097; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:24.289 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19910112; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏É; FromIndex: 4; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:24.309 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19910133; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä; FromIndex: 4; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:24.319 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19910145; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä]; ContentDescription: null; ItemCount: 6; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 6; ToIndex: 6; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:24.954 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=3]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4d6bd; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(344, 844 - 450, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:24.984 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=3]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4d6bd; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(344, 844 - 450, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:24.984 D/InteractionController(14498): click (397, 897)
+10-15 15:40:24.984 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:24.984 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:24.984 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:24.984 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:24.984 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:25.099 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:25.099 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:25.099 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:25.099 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:25.099 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:25.124 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19910951; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:25.134 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19910959; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä; FromIndex: 6; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 1; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:25.139 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:25.149 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19910975; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫; FromIndex: 6; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 1; RemovedCount: 1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:25.154 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19910980; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫]; ContentDescription: null; ItemCount: 7; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 7; ToIndex: 7; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:25.774 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=4]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4da7e; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(453, 844 - 559, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:25.794 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=4]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4da7e; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(453, 844 - 559, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:25.794 D/InteractionController(14498): click (506, 897)
+10-15 15:40:25.799 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:25.799 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:25.799 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:25.799 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:25.799 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:25.914 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:25.914 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:25.914 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:25.914 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:25.914 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:25.969 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19911792; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:25.979 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19911801; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏â]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫; FromIndex: 7; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:25.989 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19911817; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏â]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏â; FromIndex: 7; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:25.999 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19911824; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏â]; ContentDescription: null; ItemCount: 9; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 9; ToIndex: 9; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:26.144 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:26.624 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=5]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4de3f; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(562, 844 - 668, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:26.679 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=5]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4de3f; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(562, 844 - 668, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:26.679 D/InteractionController(14498): click (615, 897)
+10-15 15:40:26.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:26.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:26.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:26.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:26.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:26.794 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:26.794 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:26.794 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:26.794 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:26.794 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:26.824 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19912647; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:26.829 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19912657; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏ç]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏â; FromIndex: 9; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:26.844 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19912670; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏ç]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏ç; FromIndex: 9; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:26.849 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19912677; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏ç]; ContentDescription: null; ItemCount: 11; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 11; ToIndex: 11; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:27.474 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=6]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4e200; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(671, 844 - 777, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:27.494 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=6]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4e200; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(671, 844 - 777, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:27.494 D/InteractionController(14498): click (724, 897)
+10-15 15:40:27.494 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:27.494 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:27.494 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:27.494 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:27.494 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:27.599 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:27.599 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:27.599 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:27.599 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:27.599 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:27.649 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19913474; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:27.664 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19913488; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏ò]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏ç; FromIndex: 11; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:27.679 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19913502; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏ò]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏ò; FromIndex: 11; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:27.684 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19913510; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏ò]; ContentDescription: null; ItemCount: 13; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 13; ToIndex: 13; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:28.149 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:28.289 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=7]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4e5c1; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(17, 950 - 123, 1056); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:28.309 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=7]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4e5c1; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(17, 950 - 123, 1056); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:28.309 D/InteractionController(14498): click (70, 1003)
+10-15 15:40:28.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:28.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:28.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:28.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:28.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:28.419 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:28.419 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:28.419 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:28.419 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:28.419 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:28.469 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19914292; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:28.479 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19914305; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏ö]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏ò; FromIndex: 13; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:28.489 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19914317; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏ö]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏ö; FromIndex: 13; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:28.499 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19914323; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏ö]; ContentDescription: null; ItemCount: 15; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 15; ToIndex: 15; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:28.999 D/InteractionController(14498): scrollSwipe (380, 925, 200, 925, 5)
+10-15 15:40:29.004 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:29.004 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:29.004 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:29.004 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:29.004 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:29.159 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:29.284 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19915111; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.support.v4.view.ViewPager; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:29.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:29.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:29.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:29.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:29.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:29.404 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19915231; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.support.v4.view.ViewPager; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:29.529 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19915356; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.support.v4.view.ViewPager; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:29.649 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19915475; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.support.v4.view.ViewPager; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:29.774 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19915597; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.support.v4.view.ViewPager; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:29.889 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19915716; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.support.v4.view.ViewPager; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:30.084 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19915906; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.GridView; Text: []; ContentDescription: null; ItemCount: 21; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 0; ToIndex: 20; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:30.084 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19915907; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:30.499 W/PowerManagerService( 2007): Timer 0x3->0x3|0x0
+10-15 15:40:30.699 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=0]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@51a4f; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(17, 844 - 123, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:30.724 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=0]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@51a4f; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(17, 844 - 123, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:30.724 D/InteractionController(14498): click (70, 897)
+10-15 15:40:30.729 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:30.729 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:30.729 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:30.729 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:30.729 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:30.824 D/BatteryService( 2007): update start
+10-15 15:40:30.829 E/MtpService( 3805): In MTPAPP onReceive:android.intent.action.BATTERY_CHANGED
+10-15 15:40:30.829 E/MtpService( 3805): battPlugged Type : 2
+10-15 15:40:30.829 D/BatteryService( 2007): level:100 scale:100 status:5 health:2 present:true voltage: 4109 temperature: 310 technology: Li-ion AC powered:false USB powered:true icon:17303267 invalid charger:0 online:1 charge type:0 current avg:1
+10-15 15:40:30.834 D/STATUSBAR-BatteryController( 2126): onReceive() - ACTION_BATTERY_CHANGED
+10-15 15:40:30.834 D/STATUSBAR-BatteryController( 2126): onReceive() - level:100
+10-15 15:40:30.834 D/STATUSBAR-BatteryController( 2126): onReceive() - plugged:2
+10-15 15:40:30.834 D/STATUSBAR-BatteryController( 2126): onReceive() - BATTERY_STATUS_FULL:
+10-15 15:40:30.834 D/STATUSBAR-PhoneStatusBar( 2126): ACTION_BATTERY_CHANGED
+10-15 15:40:30.834 D/STATUSBAR-PhoneStatusBar( 2126): NORMAL_BATTERY
+10-15 15:40:30.834 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:40:30.844 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:30.844 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:30.844 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:30.844 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:30.844 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:30.869 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19916693; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:30.874 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19916700; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏ö; FromIndex: 15; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:30.884 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19916709; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™; FromIndex: 15; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:30.884 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19916713; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™]; ContentDescription: null; ItemCount: 17; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 17; ToIndex: 17; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:31.169 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:31.534 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=1]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@51e10; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(126, 844 - 232, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:31.579 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=1]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@51e10; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(126, 844 - 232, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:31.579 D/InteractionController(14498): click (179, 897)
+10-15 15:40:31.579 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:31.579 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:31.579 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:31.579 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:31.579 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:31.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:31.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:31.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:31.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:31.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:31.744 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19917567; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:31.764 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19917586; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™; FromIndex: 17; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:31.789 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19917608; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•; FromIndex: 17; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:31.794 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19917618; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•]; ContentDescription: null; ItemCount: 19; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 19; ToIndex: 19; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:32.174 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:32.394 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=2]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@521d1; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(235, 844 - 341, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:32.414 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=2]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@521d1; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(235, 844 - 341, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:32.414 D/InteractionController(14498): click (288, 897)
+10-15 15:40:32.414 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:32.414 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:32.414 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:32.414 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:32.414 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:32.524 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:32.524 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:32.524 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:32.524 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:32.524 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:32.574 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19918399; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:32.589 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19918413; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•; FromIndex: 19; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:32.604 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19918430; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞; FromIndex: 19; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:32.614 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19918439; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞]; ContentDescription: null; ItemCount: 21; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 21; ToIndex: 21; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:33.234 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=3]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@52592; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(344, 844 - 450, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:33.309 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=3]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@52592; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(344, 844 - 450, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:33.309 D/InteractionController(14498): click (397, 897)
+10-15 15:40:33.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:33.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:33.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:33.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:33.309 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:33.429 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:33.429 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:33.429 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:33.429 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:33.429 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:33.474 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19919296; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:33.489 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19919314; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ì]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞; FromIndex: 21; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:33.514 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19919336; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ì]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ì; FromIndex: 21; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:33.529 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19919350; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ì]; ContentDescription: null; ItemCount: 23; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 23; ToIndex: 23; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:34.154 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=4]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@52953; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(453, 844 - 559, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:34.194 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:34.259 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=4]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@52953; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(453, 844 - 559, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:34.259 D/InteractionController(14498): click (506, 897)
+10-15 15:40:34.264 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:34.264 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:34.264 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:34.264 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:34.264 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:34.299 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:40:34.304 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:40:34.309 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:40:34.374 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:34.374 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:34.374 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:34.374 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:34.374 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:34.404 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19920229; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:34.409 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19920236; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ì; FromIndex: 23; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:34.419 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19920247; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®; FromIndex: 23; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:34.429 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19920252; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®]; ContentDescription: null; ItemCount: 25; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 25; ToIndex: 25; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:34.444 I/dalvikvm(14539): Jit: resizing JitTable from 4096 to 8192
+10-15 15:40:34.594 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19920417; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:34.814 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19920640; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:35.519 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=5]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@52d14; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(562, 844 - 668, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:35.574 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=5]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@52d14; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(562, 844 - 668, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:35.574 D/InteractionController(14498): click (615, 897)
+10-15 15:40:35.579 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:35.579 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:35.579 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:35.579 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:35.579 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:35.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:35.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:35.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:35.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:35.684 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:35.729 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19921553; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:35.749 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19921569; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®; FromIndex: 25; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:35.769 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19921590; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±; FromIndex: 25; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:35.779 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19921600; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±]; ContentDescription: null; ItemCount: 27; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 27; ToIndex: 27; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:35.959 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19921783; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:36.204 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:36.639 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=6]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@530d5; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(671, 844 - 777, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:36.709 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=6]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@530d5; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(671, 844 - 777, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:36.709 D/InteractionController(14498): click (724, 897)
+10-15 15:40:36.709 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:36.709 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:36.709 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:36.709 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:36.709 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:36.829 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:36.829 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:36.829 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:36.829 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:36.829 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:36.879 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19922705; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:36.904 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19922724; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±; FromIndex: 27; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:36.924 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19922746; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†; FromIndex: 27; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:36.934 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19922759; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†]; ContentDescription: null; ItemCount: 29; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 29; ToIndex: 29; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:37.084 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19922909; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:37.774 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=7]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@53496; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(17, 950 - 123, 1056); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:37.794 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=7]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@53496; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(17, 950 - 123, 1056); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:37.794 D/InteractionController(14498): click (70, 1003)
+10-15 15:40:37.799 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:37.799 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:37.799 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:37.799 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:37.799 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:37.904 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:37.904 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:37.904 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:37.904 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:37.904 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:37.969 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19923788; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:37.979 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19923804; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†; FromIndex: 29; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:38.004 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19923824; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°; FromIndex: 29; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:38.009 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19923833; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°]; ContentDescription: null; ItemCount: 31; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 31; ToIndex: 31; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:38.184 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19924007; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:38.689 D/InteractionController(14498): scrollSwipe (380, 925, 200, 925, 5)
+10-15 15:40:38.689 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:38.689 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:38.689 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:38.689 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:38.689 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:38.819 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:38.819 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:38.819 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:38.819 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:38.819 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:38.859 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19924687; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.support.v4.view.ViewPager; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:38.999 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19924827; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.support.v4.view.ViewPager; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:39.129 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19924950; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.support.v4.view.ViewPager; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:39.249 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19925075; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.support.v4.view.ViewPager; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:39.364 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19925189; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.support.v4.view.ViewPager; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:39.609 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_SCROLLED; EventTime: 19925435; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.GridView; Text: []; ContentDescription: null; ItemCount: 21; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 0; ToIndex: 20; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:39.609 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19925435; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:40.184 W/PowerManagerService( 2007): Timer 0x3->0x3|0x0
+10-15 15:40:40.269 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=0]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@58aed; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(17, 844 - 123, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:40.294 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=0]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@58aed; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(17, 844 - 123, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:40.294 D/InteractionController(14498): click (70, 897)
+10-15 15:40:40.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:40.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:40.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:40.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:40.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:40.404 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:40.404 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:40.404 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:40.404 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:40.404 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:40.449 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19926273; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:40.459 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19926285; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°; FromIndex: 31; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:40.474 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19926297; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®; FromIndex: 31; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:40.479 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19926303; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®]; ContentDescription: null; ItemCount: 33; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 33; ToIndex: 33; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:40.614 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19926437; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:41.219 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:41.259 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=1]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@58eae; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(126, 844 - 232, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:41.279 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=1]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@58eae; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(126, 844 - 232, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:41.279 D/InteractionController(14498): click (179, 897)
+10-15 15:40:41.279 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:41.279 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:41.279 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:41.279 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:41.279 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:41.389 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:41.389 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:41.389 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:41.389 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:41.389 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:41.404 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19927231; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:41.419 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19927237; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±ç]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®; FromIndex: 33; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:41.424 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19927253; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±ç]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±ç; FromIndex: 33; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:41.434 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19927259; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±ç]; ContentDescription: null; ItemCount: 35; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 35; ToIndex: 35; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:41.574 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19927397; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:42.234 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=2]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@5926f; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(235, 844 - 341, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:42.289 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=2]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@5926f; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(235, 844 - 341, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:42.294 D/InteractionController(14498): click (288, 897)
+10-15 15:40:42.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:42.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:42.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:42.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:42.294 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:42.339 D/dalvikvm(14539): GC_CONCURRENT freed 962K, 7% free 20583K/22087K, paused 13ms+7ms, total 94ms
+10-15 15:40:42.399 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:42.399 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:42.399 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:42.399 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:42.399 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:42.434 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19928258; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:42.444 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19928268; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±çÌ†ΩÌ±é]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±ç; FromIndex: 35; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:42.459 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19928283; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±çÌ†ΩÌ±é]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±çÌ†ΩÌ±é; FromIndex: 35; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:42.464 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19928289; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±çÌ†ΩÌ±é]; ContentDescription: null; ItemCount: 37; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 37; ToIndex: 37; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:42.594 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19928417; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:43.239 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=3]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@59630; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(344, 844 - 450, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:43.304 I/QueryController(14498): Matched selector: UiSelector[CLASS=android.widget.GridView, INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.ImageView, INDEX=3]] <<==>> [android.view.accessibility.AccessibilityNodeInfo@59630; boundsInParent: Rect(0, 0 - 106, 106); boundsInScreen: Rect(344, 844 - 450, 950); packageName: com.quad; className: android.widget.ImageView; text: null; contentDescription: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS]]
+10-15 15:40:43.304 D/InteractionController(14498): click (397, 897)
+10-15 15:40:43.304 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:43.304 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:43.304 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:43.304 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:43.304 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x0
+10-15 15:40:43.424 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:43.424 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:43.424 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:43.424 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:43.424 I/InputDispatcher( 2007): Delivering touch to current input target: action: 0x1
+10-15 15:40:43.479 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_CLICKED; EventTime: 19929298; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.ImageView; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 1
+10-15 15:40:43.494 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19929316; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±çÌ†ΩÌ±éÌ†ΩÌ±å]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±çÌ†ΩÌ±é; FromIndex: 37; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 0; ParcelableData: null ]; recordCount: 0
+10-15 15:40:43.519 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_CHANGED; EventTime: 19929339; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±çÌ†ΩÌ±éÌ†ΩÌ±å]; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±çÌ†ΩÌ±éÌ†ΩÌ±å; FromIndex: 37; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: 2; RemovedCount: 2; ParcelableData: null ]; recordCount: 0
+10-15 15:40:43.529 D/UiAutomatorBridge(14498): EventType: TYPE_VIEW_TEXT_SELECTION_CHANGED; EventTime: 19929352; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.EditText; Text: [Ì†ΩÌ∏ÑÌ†ΩÌ∏ÉÌ†ΩÌ∏ä‚ò∫Ì†ΩÌ∏âÌ†ΩÌ∏çÌ†ΩÌ∏òÌ†ΩÌ∏öÌ†ΩÌ∏™Ì†ΩÌ∏•Ì†ΩÌ∏∞Ì†ΩÌ∏ìÌ†ΩÌ∏®Ì†ΩÌ∏±Ì†ΩÌ∏†Ì†ΩÌ∏°Ì†ΩÌ≤®Ì†ΩÌ±çÌ†ΩÌ±éÌ†ΩÌ±å]; ContentDescription: null; ItemCount: 39; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: 39; ToIndex: 39; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:43.694 D/UiAutomatorBridge(14498): EventType: TYPE_WINDOW_CONTENT_CHANGED; EventTime: 19929518; PackageName: com.quad; MovementGranularity: 0; Action: 0 [ ClassName: android.widget.FrameLayout; Text: []; ContentDescription: null; ItemCount: -1; CurrentItemIndex: -1; IsEnabled: true; IsPassword: false; IsChecked: false; IsFullScreen: false; Scrollable: false; BeforeText: null; FromIndex: -1; ToIndex: -1; ScrollX: -1; ScrollY: -1; MaxScrollX: -1; MaxScrollY: -1; AddedCount: -1; RemovedCount: -1; ParcelableData: null ]; recordCount: 0
+10-15 15:40:44.809 W/PowerManagerService( 2007): Timer 0x3->0x3|0x0
+10-15 15:40:45.239 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:46.249 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:48.654 D/dalvikvm(14498): GC_FOR_ALLOC freed 7266K, 89% free 928K/8195K, paused 85ms, total 87ms
+10-15 15:40:49.264 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:51.269 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:51.619 E/Watchdog( 2007): !@Sync 664
+10-15 15:40:57.299 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:58.274 D/dalvikvm(14498): GC_CONCURRENT freed 850K, 90% free 880K/8195K, paused 13ms+4ms, total 52ms
+10-15 15:40:58.309 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:40:59.319 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:41:00.004 W/AlarmManager( 2007): FACTORY_ON= 0
+10-15 15:41:00.029 D/STATUSBAR-Clock( 2126): onReceive() - ACTION_TIME_TICK
+10-15 15:41:00.074 D/STATUSBAR-Clock( 2126): onReceive() - ACTION_TIME_TICK
+10-15 15:41:01.329 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:41:04.349 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:41:05.359 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:41:06.324 I/power   ( 2007): *** acquire_dvfs_lock : lockType : 1  freq : 1400000 
+10-15 15:41:06.324 D/lights  ( 2007): LCD : 70 +
+10-15 15:41:06.324 D/lights  ( 2007): LCD : 70 -
+10-15 15:41:06.324 W/PowerManagerService( 2007): Timer 0x3->0x1|0x0
+10-15 15:41:06.324 I/PowerManagerService( 2007): Ulight 0x3->0x1|0x0
+10-15 15:41:06.324 D/PowerManagerService( 2007): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1400000  uid : 1000  pid : 2007  tag : AMOLED_Animation
+10-15 15:41:06.329 D/lights  ( 2007): LCD : 69 +
+10-15 15:41:06.334 D/lights  ( 2007): LCD : 69 -
+10-15 15:41:06.354 D/lights  ( 2007): LCD : 67 +
+10-15 15:41:06.354 D/lights  ( 2007): LCD : 67 -
+10-15 15:41:06.364 D/STATUSBAR-NetworkController( 2126): refreshSignalCluster: data=-1 bt=false
+10-15 15:41:06.369 D/lights  ( 2007): LCD : 62 +
+10-15 15:41:06.369 D/lights  ( 2007): LCD : 62 -
+10-15 15:41:06.384 D/lights  ( 2007): LCD : 56 +
+10-15 15:41:06.404 D/lights  ( 2007): LCD : 56 -
+10-15 15:41:06.409 D/lights  ( 2007): LCD : 45 +
+10-15 15:41:06.424 D/lights  ( 2007): LCD : 45 -
+10-15 15:41:06.424 D/lights  ( 2007): LCD : 39 +
+10-15 15:41:06.439 D/lights  ( 2007): LCD : 39 -
+10-15 15:41:06.444 D/lights  ( 2007): LCD : 33 +
+10-15 15:41:06.444 D/lights  ( 2007): LCD : 33 -
+10-15 15:41:06.444 D/lights  ( 2007): LCD : 32 +
+10-15 15:41:06.444 D/lights  ( 2007): LCD : 32 -
+10-15 15:41:06.449 D/lights  ( 2007): LCD : 31 +
+10-15 15:41:06.449 D/lights  ( 2007): LCD : 31 -
+10-15 15:41:06.449 D/lights  ( 2007): LCD : 30 +
+10-15 15:41:06.449 D/lights  ( 2007): LCD : 30 -
+10-15 15:41:06.449 I/power   ( 2007): *** release_dvfs_lock : lockType : 1 
+10-15 15:41:06.449 I/PowerManagerService( 2007): Light Animator Finished currentValue=30
+10-15 15:41:06.449 D/PowerManagerService( 2007): releaseDVFSLockLocked : all DVFS_MIN_LIMIT are released 
