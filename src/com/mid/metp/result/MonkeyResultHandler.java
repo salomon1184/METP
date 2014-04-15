@@ -1,4 +1,4 @@
-﻿package com.mid.metp.result;
+package com.mid.metp.result;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -167,7 +167,7 @@ public class MonkeyResultHandler {
 								+ "</td>");
 						builder.append("<td style=\"border: 1px solid 6ebb92; min-width: 80px\">"
 								+ monkeyResult.getSuccesses() + "</td>");
-						builder.append("<td style=\"background-color: e8767a; min-width: 80px;\">"
+						builder.append("<td style=\"background: #E8767A; min-width: 80px;\">"
 								+ monkeyResult.getFailures() + "</td>");
 						builder.append("<tr>");
 						// <tr>
