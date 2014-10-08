@@ -1,4 +1,4 @@
-﻿package com.mid.metp.util;
+package com.mid.metp.util;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
@@ -8,6 +8,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.RandomAccessFile;
 import java.util.ArrayList;
+import java.util.Random;
 import java.util.StringTokenizer;
 
 import com.mid.metp.Config;
@@ -577,6 +578,7 @@ public class AndroidUtility {
 		// "adb -s jdfkljsfklj wait-for-device  shell monkey -p comn.quad  --bugreport  --ignore-timeouts  --ignore-security-exceptions "
 		// +
 		// "  --monitor-native-crashes  --kill-process-after-error --pct-syskeys 0   --pct-touch 80 --throttle 500  -v -v 400000 > monkeypath"
+		Random random = new Random(1000);
 		String cmd = Helper
 				.combineStrings(
 						this.adb,
@@ -584,8 +586,9 @@ public class AndroidUtility {
 						targetPhone.getId(),
 						" wait-for-device  shell monkey -p ",
 						packageName,
-						"  --bugreport  --ignore-timeouts  --ignore-security-exceptions  --monitor-native-crashes  --kill-process-after-error ",
-						"--pct-syskeys 0   --pct-touch 80 --throttle 500  -v -v 400000 ");
+						"  --bugreport  --ignore-timeouts  --ignore-security-exceptions  --monitor-native-crashes  --kill-process-after-error",
+						" -s " + random.nextInt(1000),
+						"  --pct-syskeys 1  --pct-touch 80 --throttle 500  -v -v 400000 ");
 		// Log.log("monkey command: " + cmd);
 		Log.log("手机--" + targetPhone.toString() + "--Moneky 开始执行");
 		return executeCommandWithLog(cmd, "手机" + targetPhone.toString()
